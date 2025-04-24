@@ -49,10 +49,21 @@ Here are some notes to consider about this lesson:
 - Do not include any transliterations, including writing the non-Latin language words using the Latin alphabet. (this script is going to be listened to, not read, so a transliteration is unnecessary)
    * Example: 
 <Incorrect Version>
-Narrator) Let's learn our first new word: "ناو" (naw),
+Narrator) What is the meaning of: "ناو" (naw),
 <Correct Version>
-Narrator) Let's learn our first new word: "ناو", 
+Narrator) What is the meaning of: "ناو", 
 - If a grammar concept is explicitly named, the name of it should be in [source_language] and not [target_language]. Since this is the first time the listeners are learning how to talk in [target_language], stating the name of the grammar concepts in [target_language] is unnecessary and confusing. For example, if the source language is Kurdish Sorani, and the grammar concept is "to be" in English, the script should describe it as (کاری "بوون") and not "to be".
+- You can't ask for more than two items at a time as it will be too hard for the listener to remember all at once. Even if you pick 2 items, they have to be very closely related.
+   * Example: 
+<Incorrect Version>
+Narrator)  چۆن دەڵێیت "جوان، گەورە، بچووک، سەرنجڕاکێش" بە ئینگلیزی؟
+[pause]
+Woman) beautiful, big, small, interesting
+<Correct Version>
+Narrator)  چۆن دەڵێیت "جوان" و "گەورە" بە ئینگلیزی؟
+[pause]
+Woman) beautiful, big
+
 
 Your response should be the sections of the lesson in an array in JSON format. These are all the sections you have to utilize throughout the lesson, you can add as many as you want (at least one of each) and reorder them however you see fit into the script:
 
