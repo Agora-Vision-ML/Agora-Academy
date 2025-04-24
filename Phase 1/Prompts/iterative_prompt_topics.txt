@@ -1,0 +1,10 @@
+We start at the highest level of the course generation process. Assign the topics to each cycle we will have so that we know the progression of the course.
+Cycles are small batches of 3 lessons, so they shouldn't be too broad. The end goal of each cycle is to teach the learner a new collection of phrases they can use in their everyday life when it comes to [topic_of_interest]. You should have around [num_topics] cycles.
+Your response should be an array in JSON format where each cycle is an object that contains:
+- topic: a conversation topic
+- newSkills: the 3-5 newly learned skills
+- newPhrases: around 10 newly learned phrases
+The phrases should have an equal number of questions and answers, so that whatever question the student learns to ask they can also respond to if someone else asks them.
+Keep in mind that all your new phrases should be written in [target_language], and all your topics should be written in [source_language]. The new skills can be written in English.
+
+Respond only with the cycles in JSON format, no need to say "here are the cycles" or things like that.

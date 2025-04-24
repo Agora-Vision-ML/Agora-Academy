@@ -1,0 +1,188 @@
+## This is the entire vocabulary of items the listener knows so far (sorted from oldest to newest):
+--Previous Words--
+[old_words]
+
+--Previous Phrases--
+[old_phrases]
+
+--Previous Grammar Concepts--
+[old_concepts]
+
+## In this lesson, we are required to teach the following items:
+--New Words--
+[new_words]
+
+--New Phrases--
+[new_phrases]
+
+--New Grammar Concepts--
+[new_concepts]
+
+## There are some previously learned phrases and grammar concepts we are required to also review in this lesson:
+--Review Phrases--
+[review_phrases]
+
+--Review Grammar Concepts--
+[review_concepts]
+
+
+## You are tasked with generating the lesson script considering the information given. Build on the existing knowledge and teach the new items required for this lesson. Here is how the lesson should be structured:
+1- Start the lesson with a dialogue between the two speakers, which gives the listener a preview of the new content they’re about to learn. Use only the new words and phrases listed previously, do not use vocabulary outside of what the listener already knows.
+2- Introduce the new content one word at a time. Make sure to explain the meaning of the word or phrase. Highlight any special pronunciation notes the listener needs to know. And explain any relevant grammar concepts from the new concepts listed previously so the listener will know how to generalize to new items.
+3- For each time you introduce the new content, prompt the listener to say each word using back-chaining to practice the pronunciation. Each syllable, word, and phrase should be said twice. The smallest piece you can break down a word is into its syllables. If it's the first time the listener hears the word or phrase, then the Narrator should not say the word in [target_language] when they introduce it, they should only say the meaning of it in [source_language].
+For example:
+  Narrator) Here is how you say "Excuse me" in Spanish, listen and repeat after the man:
+  Man) Perdon
+  [pause]
+  Man) don
+  [pause]
+  Man) don
+  [pause]
+  Man) Per
+  [pause]
+  Man) Per
+  [pause]
+  Man) Perdon
+  [pause]
+  Narrator) Now here’s “Excuse me Miss”:
+  Man) Perdon Señorita
+  [pause]
+  Man) rita
+  [pause]
+  Man) rita
+  [pause]
+  Man) Señor
+  [pause]
+  Man) Señor
+  [pause]
+  Man) Señorita
+  [pause]
+  Man) Señorita
+  [pause]
+  Man) Perdon Señorita
+  [pause]
+This should be done for every single word you introduce in this lesson.
+4- You should repeatedly ask the listener to recall these newly learned items throughout the lesson, but no more than 2 times for each item.
+5- After learning some new items (for example: words A, B, C, and D) ask the listener to form new phrases if the words are compatible (such as phrases AC and BD)
+For example: Phrase 1 is "Where is the bathroom?". Phrase 2 is "There is the kitchen". Two new combinations you can make are "Where is the kitchen?" and "There is the bathroom"
+6- Prompt the listener to recall relevant review items from the list provided previously and tie it into the newly learnt phrases you just taught.
+For example: if the new phrase learnt this lesson is "There is the bathroom" and one of the review items is "Got it, thank you", you can ask the listener "What is the phrase you would say to thank someone if they told you where the bathroom is?"
+7- Prompt the listener to answer questions that force them to utilize the words and phrases they have learned throughout the lesson and make new combinations on the spot. You can ask for no more than 3 new combinations.
+For example: if a new phrase learnt this lesson is "Where is the bathroom", and the listener knows of the word "taxi" based on the vocabulary list mentioned previously, you can ask the listener "Now, how would you ask someone where the taxi is?". This can be done for words, phrases, and concepts.
+8- After every word and phrase is learned, bring back the original conversation.
+9- Close off the script with a 1 paragraph summary recapping what new ways the listener learned to speak (don't just list all new phrases and concepts) and quickly encourage them to come back to the next lesson.
+
+Here are some notes to consider about this lesson:
+- Consider the list of phrases and concepts that are necessary to review, and prompt the listener to recall them throughout the lesson. Fit these recall phrases and concepts into the current lesson's content so it doesn't seem out of place.
+- Be sure to explain how the grammar concepts apply to the newly learned phrases. Our listeners are considered to be general audience, so explain the concepts in natural lingo instead of grammar-heavy jargon. The grammar is critical to teach them how to generalize these phrases and words so they can pick up new items easier, so explain also how the concepts can be generalized.
+- Do not include any transliterations or writing the non-Latin language words using the Latin alphabet. (this script is going to be listened to, not read, so a transliteration is unnecessary)
+   * Example: 
+<Incorrect Version>
+Narrator) Let's learn our first new word: "ناو" (naw), which is pronounced with 'n' like 'nose' and 'aw' like 'how'.
+<Correct Version>
+Narrator) Let's learn our first new word: "ناو".
+- Don't dive too deep  into the grammar concepts or get too technical with examples and terms, just give a concise explanation where necessary. If a grammar concept is explicitly named, the name of it should be in [source_language] and not [target_language]. Since this is the first time the listeners are learning how to talk in [target_language], stating the name of the grammar concepts in [target_language] is unnecessary and confusing. For example, if the source language is Kurdish Sorani, and the grammar concept is "to be" in English, the script should describe it as (کاری "بوون") and not "to be".
+- DO NOT split up the introduction of a word/phrase and its breakdown into two separate parts.
+   * Example:
+<Incorrect Version>
+Narrator) Let's learn how to say "name" in Kurdish Sorani:
+Man) ناو
+[pause]
+Man) ناو
+[pause]
+Narrator) Now let's break it down into its parts, listen and repeat after the man:
+Man) ناو
+[pause]
+Man) ناو
+[pause]
+<Correct Version>
+Narrator) Let's learn how to say "name" in Kurdish Sorani, listen and repeat after the man:
+Man) ناو
+[pause]
+Man) ناو
+[pause]
+- DO NOT break down single syllable words into smaller letters or components, repeat them only twice and that's it.
+   * Example:
+<Incorrect Version>
+Narrator) Let's learn how to say "name" in Kurdish Sorani:
+Man) ناو
+[pause]
+Man) او
+[pause]
+Man) او
+[pause]
+Man) ن
+[pause]
+Man) ن
+[pause]
+Man) ناو
+[pause]
+<Correct Version>
+Narrator) Let's learn how to say "name" in Kurdish Sorani, listen and repeat after the man:
+Man) ناو
+[pause]
+Man) ناو
+[pause]
+- Occaisionally switch up whether Man or Woman introduces a new word or phrase to have some variety. Note that whichever you choose, it must match the relevant gender in the phrase. For example, the Woman can not say "My name is John".
+- DO NOT use words that have not been listed in the vocabulary provided previously. For example, if the words "summer", "2002", and "storage" are not part of the new_words list or previous_words list, you can't use them.
+- Any time you ask the listener to recall an item, format the script so that the Narrator sets up the question and either the man or the woman gives the answer (alternate between the man and woman across questions for variety), like so:
+Narrator) [ask the question]
+[pause]
+Man/Woman) [answer in [target_language]]
+- After the first 2-3 times that the Narrator uses a new word or phrase, the Narrator doesn't need to always provide the meaning of it when it's being recalled. Only provide the meaning if you've changed the way it's being used like adding affixes or combining it with other words.
+   * Example (after the Narrator said "ناو (name)" 3 times in the script so far):
+<Incorrect Version>
+Narrator) This new word can be added with ناو (name) to create ناوم (my name).
+<Correct Version>
+Narrator) This new word can be added with ناو to create ناوم (my name).
+- To give a preview of the next lesson, this is what the contents will be (normal = standard lesson like this one, review = rapid review of everything learned, story = practice everything learned through an interactive story):
+<next_lesson>
+[next_lesson]
+</next_lesson>
+
+Your response should be the sections of the lesson in an array in JSON format. These are all the sections you have to utilize throughout the lesson, you can add as many as you want (at least one of each) and reorder them however you see fit into the script:
+
+section:Introduction
+text:[introduce the listener to the lesson here]
+#
+section:Preview
+text:[give a dialogue between a man and a woman using the new phrases and words here]
+#
+section:Teaching '[word]'
+text:[teach the new word using steps 2, 3, and 4 here]
+#
+section:Recalling '[word]'
+text:[prompt the listener to recall that word]
+#
+section:Teaching '[phrase]'
+text:[teach the new phrase using steps 2, 3, and 4 here]
+#
+section:Recalling '[phrase]'
+text:[prompt the listener to recall that phrase]
+#
+section:Combining '[phrase 1]' and '[phrase 2]'
+text:[ask the listener to combine the words from two relevant phrases like in step 5]
+#
+section:Teaching grammar concept '[concept]'
+relevant_newly_learned_words:[a list of words separated by commas]
+relevant_newly_learned_phrases:[a list of phrases separated by commas]
+text:[explain the grammar concept very concisely considering the words and phrases the listener knows]
+#
+section:Practicing grammar concept '[concept]'
+text:[prompt the listener to apply the newly learned concept to relevant combinations of words and phrases the listener knows. Any explanation should be brief and to the point. The combination should be practical and not simply for the sake of combining items]
+#
+section:Reviewing word '[old word]'
+text:[prompt the listener to recall the previously learned word]
+#
+section:Reviewing phrase '[old phrase]'
+newly_learned_phrases_to_use_in_context:[a list of phrases separated by commas]
+text:[prompt the listener to recall the previously learned phrase and apply it within the context of this lesson]
+#
+section:Reviewing grammar concept '[old concept]'
+text:[prompt the listener to apply the newly learned concept to relevant combinations of words and phrases the listener knows. Any explanation should be brief and to the point. The combination should be practical and not simply for the sake of combining items]
+#
+section:Bring back dialogue
+text:[repeat the original dialogue verbadum]
+#
+section:Conclusion
+text:[end off the lesson, give a preview of the next lesson (without saying what the new items are), and prompt the listener to come back again. If the next lesson is a 'review' lesson, tell them they're going to do a rapid review of everything they've learned in this topic]

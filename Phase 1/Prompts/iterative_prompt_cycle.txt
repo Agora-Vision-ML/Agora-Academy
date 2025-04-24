@@ -1,0 +1,25 @@
+You are now at cycle #[cycle_number] of the language course, and you need to assign words and concepts to each lesson within the cycle.
+This cycle talks about [cycle_topic], and teaches skills like: 
+[new_skills]
+
+Some phrases you can expect in this cycle are: 
+[new_phrases]
+
+Here are all the grammar concepts that will be taught throughout this [CEFR_level] level course:
+[all_concepts]
+
+For context, here is the past [num_previous_cycles] cycles of the course:
+
+[previous_cycles]
+
+The cycle will consist of 3 lessons, each teaching new words and maybe some new grammar concepts. You need to create a JSON object that represents this cycle. The cycle object will contain:
+- topic: the topic of the cycle
+- lessons: an array of lesson objects
+
+The lesson object will contain:
+- concepts: an array of concepts taught for this lesson
+- words: an array of new words taught in this lesson
+- phrases: an array of the phrases one can make out of the words taught in the lesson
+
+All words, phrases, and concepts should be written in [target_language]. The cycle topic should be in [source_language]. For the grammar concepts, keep in mind that the list given previously can be very high level, so for the lessons you might want to break it down into specifically what aspect or portion of that concept you want to teach. You don't have to use the exact same entries from the list, just use it as a guide.
+Respond only with the cycle in a JSON format, no need to say here is the json object or things like that.

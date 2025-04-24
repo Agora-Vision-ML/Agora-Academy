@@ -1,0 +1,81 @@
+## In this lesson, we are required to review the following items:
+--Words--
+[new_words]
+
+--Phrases--
+[new_phrases]
+
+--Grammar Concepts--
+[new_concepts]
+
+## You are tasked with generating the lesson script considering the information given. Here is how the lesson should be structured:
+1- Start the lesson by introducing the listener to the rapid review. Explain how you'll quickly go back and forth between learned items so the listener can practice.
+2- Start with word translation review. Considering only the words provided, practice the translation of all the words. You can go about word translation review like this:
+2.1- Ask how you say the [source_language] word A in [target_language]. 
+2.2- Have a small pause
+2.3- Say the answer which is the correct word. For example:
+Narrator) How do you say "Excuse me" in Spanish?
+[pause]
+Man) Perdon
+You can also group similar words together into a single translation question if they make sense. For example:
+Narrator) how do you count from 10 to 15 in Spanish?
+[pause]
+Man) diez, once, doce, trece, catorce, quince
+3- Next, do word meaning review. Considering only the words provided, practice their meaning in [source_language]. You can go about word meaning review like this:
+3.1- Ask what the meaning of the [target_language] word A is
+3.2- Have a small pause
+3.3- Make the narrator say the answer which is the correct meaning. For example:
+Narrator) What is the meaning of "camarero"?
+[pause]
+Narrator) It means: waiter
+Note how only the narrator can give the answer of the meaning questions, because Man and Woman don't speak in [source_language]. Similar to how you can group like words together in word translation review, you can group like words together in word meaning review.
+4- Next, move onto phrase translation review and phrase meaning review. This is the same as word translation review and word meaning review, but now for the phrases specified previously.
+5- Next, move onto grammar concept review. In this review, the focus isn't on memorization of the concepts, but on understanding, so we will use multiple choice questions here. You can go about grammar concept review like this:
+5.1- Pick one of the concepts specified previously and come up with a word or phrase that correctly uses this concept.
+5.2- Come up with 2 incorrect versions of that word/phrase that will be given alongside the correct one to test the listener's understanding.
+5.3- Provide some context to the question, and list the 3 options IN RANDOM ORDER (the correct answer shouldn't be in the same place in each successive question). Ask the listener which one is correct.
+5.4- Have a small pause
+5.5- Say what the correct answer is. For example:
+Narrator) What is the right way to ask "how are you" in Spanish if you're talking to your boss?
+Man) "Como estas?", "Como esta usted?", "Como esta?"
+[pause]
+Narrator) The correct answer is
+Man) "Como esta usted?"
+6- Close off the lesson by encouraging the listener to come back for the next lesson, which will be an exciting story lesson.
+
+Here are some notes to consider about this lesson:
+- You should review at least 80% of all the listed words, phrases, and concepts listed previously.
+- The narrator can only talk in [source_language] in this script, they can refer to the [target_language] words and phrases if need be.
+- Do not include any transliterations, including writing the non-Latin language words using the Latin alphabet. (this script is going to be listened to, not read, so a transliteration is unnecessary)
+   * Example: 
+<Incorrect Version>
+Narrator) Let's learn our first new word: "ناو" (naw),
+<Correct Version>
+Narrator) Let's learn our first new word: "ناو", 
+- If a grammar concept is explicitly named, the name of it should be in [source_language] and not [target_language]. Since this is the first time the listeners are learning how to talk in [target_language], stating the name of the grammar concepts in [target_language] is unnecessary and confusing. For example, if the source language is Kurdish Sorani, and the grammar concept is "to be" in English, the script should describe it as (کاری "بوون") and not "to be".
+
+Your response should be the sections of the lesson in an array in JSON format. These are all the sections you have to utilize throughout the lesson, you can add as many as you want (at least one of each) and reorder them however you see fit into the script:
+
+section:Introduction
+text:[introduce the listener to the rapid review lesson here as outlined in step 1]
+#
+section:Practicing '[word]' Translation
+text:[ask the listener what the translation of the [source_language] word is in [target_language] as outline in steps 2.1 to 2.3]
+#
+section:Practicing '[word]' Meaning
+text:[ask the listener what the meaning of the [target_language] word is in [source_language] as outline in steps 3.1 to 3.3]
+#
+section:Practicing '[phrase]' Translation
+text:[ask the listener what the translation of the [source_language] phrase is in [target_language] as outlined in step 4]
+#
+section:Practicing '[phrase]' Meaning
+text:[ask the listener what the meaning of the [target_language] phrase is in [source_language] as outline in step 4]
+#
+section:Practicing '[grammar concept]'
+correct_answer:[the correct phrase or word]
+incorrect_versions:[a list of answers separated by commas]
+answer_in_depth_explanation:[explain why the correct answer is correct within the context of the concept]
+text:[Ask the listener what the correct way to say the [source_language] phrase is in [target_language], provide 3 options, and explain the correct option as outlined in steps 5.1 to 5.5]
+#
+section:Conclusion
+text:[end off the lesson, give them a preview of the next lesson (which is a story lesson where they practice everything in the topic using an interactive story), and prompt the listner to come back again]

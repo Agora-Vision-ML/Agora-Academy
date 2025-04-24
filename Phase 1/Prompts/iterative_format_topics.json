@@ -1,0 +1,31 @@
+{
+    "type": "array",
+    "description": "the list of topics that make up the structure of the course",
+    "items": {
+        "type": "object",
+        "description": "a single topic in the course",
+        "required": ["topic", "new_skills", "new_phrases"],
+        "properties": {
+            "topic": {
+                "type": "string",
+                "description": "the name of the topic"
+            },
+            "new_skills": {
+                "type": "array",
+                "description": "the list of new skills that will be learned in this topic",
+                "items": {
+                    "type": "string",
+                    "description": "a new skill that will be learned in this topic"
+                }
+            },
+            "new_phrases": {
+                "type": "array",
+                "description": "the list of new phrases that will be learned in this topic",
+                "items": {
+                    "type": "string",
+                    "description": "a new phrase that will be learned in this topic"
+                }
+            }
+        }
+    }
+}

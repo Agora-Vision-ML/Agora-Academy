@@ -1,0 +1,1014 @@
+[
+  {
+    "topic": "Greetings and Introductions",
+    "newSkills": [
+      "Basic greetings",
+      "Introducing yourself",
+      "Asking someone's name",
+      "Simple polite expressions",
+      "Basic pronunciation"
+    ],
+    "newPhrases": [
+      "سڵاو (Hello)",
+      "چۆنی؟ (How are you?)",
+      "باشم، سوپاس (I'm fine, thanks)",
+      "ناوم ... ـە (My name is...)",
+      "ناوت چییە؟ (What is your name?)",
+      "خۆشحاڵم بە ناسینت (Nice to meet you)",
+      "منیش خۆشحاڵم (Nice to meet you too)",
+      "بەخێربێیت (Welcome)",
+      "سوپاس (Thank you)",
+      "تکایە (Please)"
+    ]
+  },
+  {
+    "topic": "Basic Tourism Vocabulary",
+    "newSkills": [
+      "Identifying tourist attractions",
+      "Using the verb 'to be' in present tense",
+      "Asking what something is",
+      "Basic sentence structure",
+      "Using demonstrative pronouns"
+    ],
+    "newPhrases": [
+      "ئەمە چییە؟ (What is this?)",
+      "ئەمە مۆزەخانەیە (This is a museum)",
+      "ئەوە چییە؟ (What is that?)",
+      "ئەوە قەڵایە (That is a castle)",
+      "ئەمە شوێنێکی گەشتیارییە (This is a tourist site)",
+      "لێرە شوێنی مێژوویی هەیە؟ (Are there historical places here?)",
+      "بەڵێ، زۆر شوێنی مێژوویی هەیە (Yes, there are many historical places)",
+      "ئەمە جوانە (This is beautiful)",
+      "ئەوە بەناوبانگە (That is famous)",
+      "ئەمە گرنگە (This is important)"
+    ]
+  },
+  {
+    "topic": "Asking for Directions",
+    "newSkills": [
+      "Asking for and giving basic directions",
+      "Understanding location prepositions",
+      "Recognizing direction words",
+      "Using question words for location",
+      "Expressing distance"
+    ],
+    "newPhrases": [
+      "ببوورە، مۆزەخانە لە کوێیە؟ (Excuse me, where is the museum?)",
+      "ڕاستەوخۆ بڕۆ (Go straight ahead)",
+      "بە لای ڕاستدا بڕۆ (Turn right)",
+      "بە لای چەپدا بڕۆ (Turn left)",
+      "نزیکە یان دوورە؟ (Is it near or far?)",
+      "زۆر نزیکە (It's very close)",
+      "دوورە (It's far)",
+      "لە کام لا؟ (On which side?)",
+      "لە لای ڕاست (On the right side)",
+      "لە لای چەپ (On the left side)"
+    ]
+  },
+  {
+    "topic": "Transportation",
+    "newSkills": [
+      "Asking about transportation options",
+      "Buying tickets",
+      "Telling time for schedules",
+      "Using modal verbs for possibility",
+      "Asking about prices"
+    ],
+    "newPhrases": [
+      "پاس بۆ ناوەندی شار هەیە؟ (Is there a bus to the city center?)",
+      "بەڵێ، پاس هەیە (Yes, there is a bus)",
+      "کەی دەڕوات؟ (When does it leave?)",
+      "لە کاتژمێر دە دەڕوات (It leaves at 10 o'clock)",
+      "نرخی بلیت چەندە؟ (How much is the ticket?)",
+      "دە هەزار دینارە (It's 10,000 dinars)",
+      "دەتوانم تاکسی بگرم؟ (Can I take a taxi?)",
+      "بەڵێ، تاکسی لەوێیە (Yes, taxis are there)",
+      "چەند دەخایەنێت؟ (How long does it take?)",
+      "بیست خولەک دەخایەنێت (It takes twenty minutes)"
+    ]
+  },
+  {
+    "topic": "Accommodation",
+    "newSkills": [
+      "Booking a hotel room",
+      "Asking about facilities",
+      "Using numbers for room types",
+      "Making requests",
+      "Expressing preferences"
+    ],
+    "newPhrases": [
+      "ژوورێکتان هەیە؟ (Do you have a room available?)",
+      "بەڵێ، ژوورمان هەیە (Yes, we have rooms available)",
+      "بۆ چەند شەو؟ (For how many nights?)",
+      "بۆ دوو شەو (For two nights)",
+      "ژووری تاک یان دووانی؟ (Single or double room?)",
+      "ژووری دووانی تکایە (Double room please)",
+      "وایفای هەیە؟ (Is there WiFi?)",
+      "بەڵێ، وایفای بەخۆڕایی هەیە (Yes, there is free WiFi)",
+      "نانی بەیانی لەگەڵە؟ (Is breakfast included?)",
+      "بەڵێ، نانی بەیانی لەگەڵە (Yes, breakfast is included)"
+    ]
+  },
+  {
+    "topic": "Ordering Food",
+    "newSkills": [
+      "Ordering in a restaurant",
+      "Asking about menu items",
+      "Expressing likes and dislikes",
+      "Using adjectives for food",
+      "Making polite requests"
+    ],
+    "newPhrases": [
+      "مێنیوتان هەیە؟ (Do you have a menu?)",
+      "بەڵێ، فەرموو مێنیوەکە (Yes, here is the menu)",
+      "خواردنی کوردی چیتان هەیە؟ (What Kurdish food do you have?)",
+      "دۆڵمە و بریانیمان هەیە (We have dolma and biryani)",
+      "ئەمە چییە؟ (What is this?)",
+      "ئەوە یاپراخە (That is yaprakha)",
+      "تکایە، ئاوم دەوێت (Please, I would like water)",
+      "شیرینیتان هەیە؟ (Do you have desserts?)",
+      "بەڵێ، باقلاوامان هەیە (Yes, we have baklava)",
+      "زۆر خۆشە (It's very delicious)"
+    ]
+  },
+  {
+    "topic": "Shopping",
+    "newSkills": [
+      "Asking about prices",
+      "Bargaining",
+      "Describing what you want",
+      "Using numbers for counting",
+      "Expressing quantity"
+    ],
+    "newPhrases": [
+      "ئەمە بە چەندە؟ (How much is this?)",
+      "بە بیست هەزار دینارە (It's 20,000 dinars)",
+      "گرانە (It's expensive)",
+      "دەتوانم کەمتر بدەم؟ (Can I pay less?)",
+      "باشە، پازدە هەزار (Okay, 15,000)",
+      "ڕەنگی دیکەتان هەیە؟ (Do you have other colors?)",
+      "بەڵێ، سوور و شینمان هەیە (Yes, we have red and blue)",
+      "ئەمەم دەوێت (I want this one)",
+      "چەند دانەت دەوێت؟ (How many do you want?)",
+      "دوو دانەم دەوێت (I want two)"
+    ]
+  },
+  {
+    "topic": "Cultural Sites",
+    "newSkills": [
+      "Describing historical places",
+      "Asking about opening hours",
+      "Using past tense for history",
+      "Expressing interest",
+      "Asking for information"
+    ],
+    "newPhrases": [
+      "ئەم قەڵایە چەند کۆنە؟ (How old is this castle?)",
+      "سەدان ساڵ کۆنە (It's hundreds of years old)",
+      "کەی دەکرێتەوە؟ (When does it open?)",
+      "لە کاتژمێر نۆ دەکرێتەوە (It opens at 9 o'clock)",
+      "کەی دادەخرێت؟ (When does it close?)",
+      "لە کاتژمێر پێنج دادەخرێت (It closes at 5 o'clock)",
+      "دەتوانم وێنە بگرم؟ (Can I take pictures?)",
+      "بەڵێ، بەڵام بێ فلاش (Yes, but without flash)",
+      "زانیاری زیاترت هەیە؟ (Do you have more information?)",
+      "بەڵێ، ئەم نامیلکەیە بخوێنەوە (Yes, read this brochure)"
+    ]
+  },
+  {
+    "topic": "Weather and Seasons",
+    "newSkills": [
+      "Talking about weather conditions",
+      "Discussing seasons",
+      "Using adjectives for weather",
+      "Making comparisons",
+      "Asking about climate"
+    ],
+    "newPhrases": [
+      "کەشوهەوا چۆنە؟ (How is the weather?)",
+      "ئەمڕۆ خۆشە (It's nice today)",
+      "بارانە یان خۆرە؟ (Is it rainy or sunny?)",
+      "خۆرە، گەرمە (It's sunny and warm)",
+      "باشترین وەرز بۆ سەردان کەیە؟ (What is the best season to visit?)",
+      "بەهار زۆر جوانە (Spring is very beautiful)",
+      "لە زستاندا بەفر دەبارێت؟ (Does it snow in winter?)",
+      "بەڵێ، زۆر بەفر دەبارێت (Yes, it snows a lot)",
+      "ئەمڕۆ ساردە (It's cold today)",
+      "هاوین گەرمە (Summer is hot)"
+    ]
+  },
+  {
+    "topic": "Asking for Help",
+    "newSkills": [
+      "Expressing problems",
+      "Asking for assistance",
+      "Using modal verbs for requests",
+      "Expressing urgency",
+      "Showing gratitude"
+    ],
+    "newPhrases": [
+      "دەتوانیت یارمەتیم بدەیت؟ (Can you help me?)",
+      "بەڵێ، چۆن دەتوانم یارمەتیت بدەم؟ (Yes, how can I help you?)",
+      "من ون بووم (I am lost)",
+      "کێشەیەکم هەیە (I have a problem)",
+      "پێویستم بە یارمەتییە (I need help)",
+      "دەتوانیت ئینگلیزی قسە بکەیت؟ (Can you speak English?)",
+      "تۆزێک (A little bit)",
+      "پۆلیس لە کوێیە؟ (Where is the police?)",
+      "زۆر سوپاس بۆ یارمەتیت (Thank you very much for your help)",
+      "خێرا تکایە (Quickly please)"
+    ]
+  },
+  {
+    "topic": "Time and Date",
+    "newSkills": [
+      "Telling time",
+      "Discussing days of the week",
+      "Talking about months",
+      "Asking about schedules",
+      "Making appointments"
+    ],
+    "newPhrases": [
+      "کاتژمێر چەندە؟ (What time is it?)",
+      "کاتژمێر دوازدەیە (It's 12 o'clock)",
+      "ئەمڕۆ چ ڕۆژێکە؟ (What day is today?)",
+      "ئەمڕۆ دووشەممەیە (Today is Monday)",
+      "سبەینێ کراوەیە؟ (Is it open tomorrow?)",
+      "بەڵێ، لە کاتژمێر دە (Yes, at 10 o'clock)",
+      "ئێستا چ مانگێکە؟ (What month is it now?)",
+      "ئێستا حوزەیرانە (It's June now)",
+      "کەی دەتوانم بێم؟ (When can I come?)",
+      "لە کاتژمێر سێی دوانیوەڕۆ (At 3 PM)"
+    ]
+  },
+  {
+    "topic": "Local Customs",
+    "newSkills": [
+      "Discussing traditions",
+      "Asking about cultural norms",
+      "Using appropriate expressions",
+      "Showing respect",
+      "Asking for explanations"
+    ],
+    "newPhrases": [
+      "ئەم ڕێوڕەسمە چییە؟ (What is this ceremony?)",
+      "ئەمە نەورۆزە (This is Newroz)",
+      "چۆن بەشداری بکەم؟ (How can I participate?)",
+      "دەتوانیت لەگەڵمان هەڵپەڕکێ بکەیت (You can dance with us)",
+      "دەبێت چی لەبەر بکەم؟ (What should I wear?)",
+      "جلی ڕەنگاوڕەنگ باشە (Colorful clothes are good)",
+      "ئەم خواردنە چییە؟ (What is this food?)",
+      "ئەمە کلێچەیە، شیرینییەکی کوردییە (This is klecha, a Kurdish sweet)",
+      "ئەم جەژنە کەی دەست پێدەکات؟ (When does this festival start?)",
+      "بەیانی زوو دەست پێدەکات (It starts early morning)"
+    ]
+  },
+  {
+    "topic": "Nature and Landscapes",
+    "newSkills": [
+      "Describing natural features",
+      "Expressing admiration",
+      "Using adjectives for nature",
+      "Asking about outdoor activities",
+      "Discussing geography"
+    ],
+    "newPhrases": [
+      "ئەم شاخە چییە؟ (What is this mountain?)",
+      "ئەمە شاخی قەندیلە (This is Mount Qandil)",
+      "دەتوانم بچمە سەر شاخ؟ (Can I go hiking?)",
+      "بەڵێ، ڕێگای باش هەیە (Yes, there are good trails)",
+      "ئەم دیمەنە زۆر جوانە (This view is very beautiful)",
+      "دەریاچە لە کوێیە؟ (Where is the lake?)",
+      "دەریاچە لەو لایەیە (The lake is that way)",
+      "ئەم ناوچەیە چییە؟ (What is this area?)",
+      "ئەمە پارکی نیشتمانییە (This is a national park)",
+      "دەتوانم مەلە بکەم؟ (Can I swim?)"
+    ]
+  },
+  {
+    "topic": "Health and Emergencies",
+    "newSkills": [
+      "Describing symptoms",
+      "Asking for medical help",
+      "Locating pharmacies and hospitals",
+      "Using emergency phrases",
+      "Expressing pain and discomfort"
+    ],
+    "newPhrases": [
+      "نەخۆشم (I am sick)",
+      "سەرم ئێشێت (I have a headache)",
+      "دەرمانخانە لە کوێیە؟ (Where is the pharmacy?)",
+      "نەخۆشخانە نزیکە؟ (Is the hospital nearby?)",
+      "پێویستم بە دکتۆرە (I need a doctor)",
+      "ئەمە دەرمانی چییە؟ (What is this medicine for?)",
+      "ڕۆژی سێ جار بیخۆ (Take it three times a day)",
+      "ئەلێرجیم هەیە (I have allergies)",
+      "یارمەتی! (Help!)",
+      "باشتر دەبیت (You will get better)"
+    ]
+  },
+  {
+    "topic": "Photography",
+    "newSkills": [
+      "Asking permission to take photos",
+      "Discussing photography spots",
+      "Using camera-related vocabulary",
+      "Asking for posing",
+      "Describing photos"
+    ],
+    "newPhrases": [
+      "دەتوانم وێنە بگرم؟ (Can I take a picture?)",
+      "بەڵێ، دەتوانیت (Yes, you can)",
+      "باشترین شوێن بۆ وێنەگرتن کوێیە؟ (What's the best place for photos?)",
+      "لەسەر ئەو گردە دیمەنەکە جوانە (On that hill the view is beautiful)",
+      "دەتوانیت وێنەیەکمان بگریت؟ (Can you take our picture?)",
+      "بەڵێ، بە دڵنیاییەوە (Yes, certainly)",
+      "بزەبکە! (Smile!)",
+      "وێنەکە جوان بوو (The photo was nice)",
+      "کامێراکەت چییە؟ (What camera do you have?)",
+      "دەتوانم لەگەڵ ئەمە وێنە بگرم؟ (Can I take a picture with this?)"
+    ]
+  },
+  {
+    "topic": "Souvenirs and Crafts",
+    "newSkills": [
+      "Discussing traditional crafts",
+      "Shopping for souvenirs",
+      "Asking about materials",
+      "Expressing preferences",
+      "Bargaining for crafts"
+    ],
+    "newPhrases": [
+      "ئەم دەستکردە چییە؟ (What is this handicraft?)",
+      "ئەمە قاڵی کوردییە (This is a Kurdish carpet)",
+      "لە چی دروستکراوە؟ (What is it made of?)",
+      "لە خوری دروستکراوە (It's made of wool)",
+      "دەستکردی ناوخۆییە؟ (Is it locally made?)",
+      "بەڵێ، لێرە دروستکراوە (Yes, it's made here)",
+      "باشترین سووەنیر چییە؟ (What's the best souvenir?)",
+      "ئەم گەردنبەندە جوانە (This necklace is beautiful)",
+      "دەتوانم نرخەکەی کەم بکەمەوە؟ (Can I lower the price?)",
+      "ئەمە دیاری باشە (This is a good gift)"
+    ]
+  },
+  {
+    "topic": "Festivals and Events",
+    "newSkills": [
+      "Asking about local events",
+      "Understanding festival schedules",
+      "Discussing cultural celebrations",
+      "Expressing interest in participation",
+      "Using future tense for events"
+    ],
+    "newPhrases": [
+      "ئایا فێستیڤاڵ هەیە؟ (Are there any festivals?)",
+      "بەڵێ، فێستیڤاڵی مۆسیقا هەیە (Yes, there is a music festival)",
+      "کەی دەست پێدەکات؟ (When does it start?)",
+      "هەفتەی داهاتوو دەست پێدەکات (It starts next week)",
+      "چۆن دەتوانم بلیت بکڕم؟ (How can I buy tickets?)",
+      "ئۆنلاین یان لە دەرگا (Online or at the door)",
+      "چ جۆرە مۆسیقایەک دەژەنن؟ (What kind of music do they play?)",
+      "مۆسیقای کوردی و فۆلکلۆری (Kurdish and folk music)",
+      "ئایا ڕێوڕەسمی تایبەت هەیە؟ (Are there special ceremonies?)",
+      "بەڵێ، هەڵپەڕکێی کوردی هەیە (Yes, there is Kurdish dancing)"
+    ]
+  },
+  {
+    "topic": "Local Food Specialties",
+    "newSkills": [
+      "Asking about traditional dishes",
+      "Discussing ingredients",
+      "Expressing food preferences",
+      "Ordering special dishes",
+      "Asking how food is prepared"
+    ],
+    "newPhrases": [
+      "خواردنی تایبەتی ئێرە چییە؟ (What is the special food here?)",
+      "کەباب و دۆڵمە بەناوبانگن (Kebab and dolma are famous)",
+      "ئەمە چۆن دروست دەکرێت؟ (How is this made?)",
+      "بە گۆشت و بەڕۆژ دروست دەکرێت (It's made with meat and rice)",
+      "تامی چۆنە؟ (How does it taste?)",
+      "زۆر بەتامە (It's very tasty)",
+      "توندە؟ (Is it spicy?)",
+      "نا، توند نییە (No, it's not spicy)",
+      "خواردنەوەی ناوخۆیی چیتان هەیە؟ (What local drinks do you have?)",
+      "ماستاومان هەیە (We have mastaw/yogurt drink)"
+    ]
+  },
+  {
+    "topic": "Guided Tours",
+    "newSkills": [
+      "Booking a tour",
+      "Asking about tour details",
+      "Understanding itineraries",
+      "Discussing group sizes",
+      "Asking about tour guides"
+    ],
+    "newPhrases": [
+      "گەشتی ڕێبەریکراو هەیە؟ (Are there guided tours?)",
+      "بەڵێ، گەشتی ڕۆژانە هەیە (Yes, there are daily tours)",
+      "کەی دەست پێدەکات؟ (When does it start?)",
+      "لە کاتژمێر نۆی بەیانی (At 9 AM)",
+      "چەند دەخایەنێت؟ (How long does it take?)",
+      "چوار کاتژمێر دەخایەنێت (It takes four hours)",
+      "ڕێبەرەکە ئینگلیزی دەزانێت؟ (Does the guide speak English?)",
+      "بەڵێ، ئینگلیزی دەزانێت (Yes, they speak English)",
+      "نرخەکەی چەندە؟ (How much does it cost?)",
+      "پەنجا هەزار دینارە (It's 50,000 dinars)"
+    ]
+  },
+  {
+    "topic": "Public Transportation",
+    "newSkills": [
+      "Using buses and taxis",
+      "Asking about routes",
+      "Understanding schedules",
+      "Buying tickets",
+      "Asking for stops"
+    ],
+    "newPhrases": [
+      "پاس بۆ بازاڕ هەیە؟ (Is there a bus to the market?)",
+      "بەڵێ، پاسی ژمارە سێ (Yes, bus number three)",
+      "لە کوێ سواری پاس دەبم؟ (Where do I catch the bus?)",
+      "لە وێستگەی سەرەکی (At the main station)",
+      "تکایە، لێرە ڕامگرە (Please stop here)",
+      "وێستگەی داهاتوو کوێیە؟ (What is the next stop?)",
+      "وێستگەی داهاتوو بازاڕە (The next stop is the market)",
+      "چەند خولەک دەخایەنێت؟ (How many minutes does it take?)",
+      "پازدە خولەک دەخایەنێت (It takes fifteen minutes)",
+      "دەتوانم بلیت لە شۆفێر بکڕم؟ (Can I buy a ticket from the driver?)"
+    ]
+  },
+  {
+    "topic": "Money and Currency",
+    "newSkills": [
+      "Discussing currency exchange",
+      "Asking about prices",
+      "Using numbers for money",
+      "Finding ATMs",
+      "Discussing payment methods"
+    ],
+    "newPhrases": [
+      "لە کوێ دەتوانم پارە بگۆڕمەوە؟ (Where can I exchange money?)",
+      "لە بانک یان هۆتێل (At the bank or hotel)",
+      "نرخی گۆڕینەوە چەندە؟ (What is the exchange rate?)",
+      "یەک دۆلار هەزار و دوو سەد دینارە (One dollar is 1,200 dinars)",
+      "ئەی تی ئێم لە کوێیە؟ (Where is an ATM?)",
+      "ئەی تی ئێم لە نزیک بانکە (The ATM is near the bank)",
+      "دەتوانم بە کارتی بانک بدەم؟ (Can I pay with a bank card?)",
+      "بەڵێ، کارتی بانک وەردەگرین (Yes, we accept bank cards)",
+      "پارەی وردم پێویستە (I need small change)",
+      "ئەمە زۆر گرانە (This is very expensive)"
+    ]
+  },
+  {
+    "topic": "Historical Sites",
+    "newSkills": [
+      "Discussing historical significance",
+      "Asking about age of monuments",
+      "Understanding historical periods",
+      "Asking about restoration",
+      "Using past tense for historical events"
+    ],
+    "newPhrases": [
+      "ئەم شوێنە چەند کۆنە؟ (How old is this place?)",
+      "سەدان ساڵ کۆنە (It's hundreds of years old)",
+      "کێ ئەمەی دروستکردووە؟ (Who built this?)",
+      "لە سەردەمی عوسمانی دروستکراوە (It was built during the Ottoman period)",
+      "بۆچی ئەم شوێنە گرنگە؟ (Why is this place important?)",
+      "چونکە مێژووی زۆری تێدایە (Because it has a lot of history)",
+      "ئایا نۆژەن کراوەتەوە؟ (Has it been restored?)",
+      "بەڵێ، پێنج ساڵ لەمەوبەر (Yes, five years ago)",
+      "دەتوانم بچمە ناوەوە؟ (Can I go inside?)",
+      "بەڵێ، بەڵام پێڵاوەکانت دابکەنە (Yes, but take off your shoes)"
+    ]
+  },
+  {
+    "topic": "Outdoor Activities",
+    "newSkills": [
+      "Discussing hiking options",
+      "Asking about equipment",
+      "Understanding safety instructions",
+      "Discussing difficulty levels",
+      "Asking about guided activities"
+    ],
+    "newPhrases": [
+      "ڕێگای پیادەڕەوی هەیە؟ (Are there hiking trails?)",
+      "بەڵێ، چەندین ڕێگا هەن (Yes, there are several trails)",
+      "ئاستی سەختی چۆنە؟ (What is the difficulty level?)",
+      "ئەمە ئاسانە، ئەوە سەختە (This one is easy, that one is difficult)",
+      "پێویستم بە چ کەلوپەلێکە؟ (What equipment do I need?)",
+      "پێڵاوی باش و ئاو (Good shoes and water)",
+      "دەتوانم بە تەنها بڕۆم؟ (Can I go alone?)",
+      "باشترە ڕێبەرێک بگریت (It's better to hire a guide)",
+      "چەند کاتژمێر دەخایەنێت؟ (How many hours does it take?)",
+      "سێ کاتژمێر بۆ گەڕانەوە (Three hours round trip)"
+    ]
+  },
+  {
+    "topic": "Local Music and Arts",
+    "newSkills": [
+      "Discussing traditional music",
+      "Asking about performances",
+      "Understanding musical instruments",
+      "Expressing appreciation for arts",
+      "Asking about cultural shows"
+    ],
+    "newPhrases": [
+      "مۆسیقای کوردی چۆنە؟ (What is Kurdish music like?)",
+      "ڕیتمی خێرا و میلۆدی جوانی هەیە (It has fast rhythms and beautiful melodies)",
+      "ئەم ئامێرە چییە؟ (What is this instrument?)",
+      "ئەمە تەمبوورە (This is a tambur)",
+      "ئەمشەو شانۆ هەیە؟ (Is there a show tonight?)",
+      "بەڵێ، لە هۆڵی کەلتووری (Yes, at the cultural hall)",
+      "کەی دەست پێدەکات؟ (When does it start?)",
+      "لە کاتژمێر حەوتی ئێوارە (At 7 PM)",
+      "دەتوانم گۆرانی کوردی فێر بم؟ (Can I learn Kurdish songs?)",
+      "بەڵێ، کلاسی مۆسیقا هەیە (Yes, there are music classes)"
+    ]
+  },
+  {
+    "topic": "Religious Sites",
+    "newSkills": [
+      "Discussing religious buildings",
+      "Understanding visiting etiquette",
+      "Asking about religious customs",
+      "Using respectful language",
+      "Asking about significance"
+    ],
+    "newPhrases": [
+      "ئەم مزگەوتە کراوەیە بۆ گەشتیاران؟ (Is this mosque open to tourists?)",
+      "بەڵێ، بەڵام لە کاتی نوێژدا نا (Yes, but not during prayer times)",
+      "دەبێت چی لەبەر بکەم؟ (What should I wear?)",
+      "جلی داپۆشراو، ژنان سەریان داپۆشن (Modest clothes, women cover their heads)",
+      "دەتوانم وێنە بگرم؟ (Can I take pictures?)",
+      "لە دەرەوە بەڵێ، لە ناوەوە نا (Outside yes, inside no)",
+      "ئەم شوێنە بۆچی گرنگە؟ (Why is this place important?)",
+      "ئەمە شوێنێکی پیرۆزە (This is a sacred place)",
+      "دەبێت پێڵاوەکانم دابکەنم؟ (Should I take off my shoes?)",
+      "بەڵێ، پێش چوونە ژوورەوە (Yes, before entering)"
+    ]
+  },
+  {
+    "topic": "Making Friends",
+    "newSkills": [
+      "Introducing yourself in social settings",
+      "Asking about interests",
+      "Making small talk",
+      "Exchanging contact information",
+      "Extending invitations"
+    ],
+    "newPhrases": [
+      "خەڵکی کوێیت؟ (Where are you from?)",
+      "من خەڵکی ئەمریکام (I am from America)",
+      "بۆچی هاتوویتە کوردستان؟ (Why did you come to Kurdistan?)",
+      "بۆ گەشتوگوزار هاتووم (I came for tourism)",
+      "حەزت لە چییە؟ (What do you like?)",
+      "حەزم لە مۆسیقا و خواردنی کوردییە (I like music and Kurdish food)",
+      "دەتوانین پێکەوە قاوە بخۆینەوە؟ (Can we have coffee together?)",
+      "بەڵێ، بە دڵنیاییەوە (Yes, certainly)",
+      "ژمارەی تەلەفۆنت چییە؟ (What is your phone number?)",
+      "ئەمە ژمارەکەمە (This is my number)"
+    ]
+  },
+  {
+    "topic": "Celebrations and Holidays",
+    "newSkills": [
+      "Discussing holiday traditions",
+      "Asking about celebrations",
+      "Using holiday-related vocabulary",
+      "Expressing well-wishes",
+      "Understanding cultural significance"
+    ],
+    "newPhrases": [
+      "گەورەترین جەژن لە کوردستان چییە؟ (What is the biggest holiday in Kurdistan?)",
+      "نەورۆز گەورەترین جەژنە (Newroz is the biggest holiday)",
+      "چۆن یادی دەکەنەوە؟ (How do you celebrate it?)",
+      "بە ئاگر و هەڵپەڕکێ (With fire and dancing)",
+      "کەی ڕوودەدات؟ (When does it happen?)",
+      "لە بیست و یەکی ئازار (On March 21st)",
+      "دەتوانم بەشداری بکەم؟ (Can I participate?)",
+      "بەڵێ، هەموو کەسێک بەخێرهاتنی دەکرێت (Yes, everyone is welcome)",
+      "جەژنت پیرۆز بێت چۆن دەڵێن؟ (How do you say Happy Holiday?)",
+      "نەورۆزتان پیرۆز بێت (Happy Newroz to you)"
+    ]
+  },
+  {
+    "topic": "Telephone Conversations",
+    "newSkills": [
+      "Making phone calls",
+      "Leaving messages",
+      "Understanding phone etiquette",
+      "Asking to speak with someone",
+      "Handling communication problems"
+    ],
+    "newPhrases": [
+      "ئەلۆ، دەتوانم لەگەڵ... قسە بکەم؟ (Hello, can I speak with...?)",
+      "بەڵێ، چاوەڕێ بکە تکایە (Yes, please wait)",
+      "دەتوانیت پەیامێک بەجێبهێڵیت؟ (Can you leave a message?)",
+      "بەڵێ، پێی بڵێ من تەلەفۆنم کرد (Yes, tell them I called)",
+      "ببوورە، باش نابیستم (Sorry, I can't hear well)",
+      "دەتوانیت دووبارەی بکەیتەوە؟ (Can you repeat that?)",
+      "ژمارەکە هەڵەیە (The number is wrong)",
+      "دواتر تەلەفۆن دەکەمەوە (I'll call back later)",
+      "کەی باشترە تەلەفۆن بکەم؟ (When is the best time to call?)",
+      "لە کاتژمێر پێنج باشترە (At 5 o'clock is better)"
+    ]
+  },
+  {
+    "topic": "Expressing Opinions",
+    "newSkills": [
+      "Giving opinions about experiences",
+      "Asking for opinions",
+      "Using comparative adjectives",
+      "Expressing likes and dislikes",
+      "Making recommendations"
+    ],
+    "newPhrases": [
+      "ڕات چییە لەبارەی ئەمەوە؟ (What do you think about this?)",
+      "بە ڕای من زۆر جوانە (In my opinion, it's very beautiful)",
+      "باشترین شت چی بوو؟ (What was the best thing?)",
+      "باشترین شت خواردنەکە بوو (The best thing was the food)",
+      "حەزت لە کوردستان کرد؟ (Did you like Kurdistan?)",
+      "بەڵێ، زۆر حەزم لێی کرد (Yes, I liked it very much)",
+      "کام شار جوانترە؟ (Which city is more beautiful?)",
+      "هەولێر کۆنترە، سلێمانی جوانترە (Erbil is older, Sulaymaniyah is more beautiful)",
+      "پێشنیارت چییە؟ (What do you recommend?)",
+      "پێشنیار دەکەم قەڵا ببینیت (I recommend seeing the castle)"
+    ]
+  },
+  {
+    "topic": "Describing People",
+    "newSkills": [
+      "Using adjectives for appearance",
+      "Describing personality traits",
+      "Asking about people",
+      "Using possessive pronouns",
+      "Making comparisons between people"
+    ],
+    "newPhrases": [
+      "ئەو کێیە؟ (Who is that?)",
+      "ئەوە ڕێبەرەکەمانە (That's our guide)",
+      "چۆن کەسێکە؟ (What kind of person is he/she?)",
+      "زۆر میهرەبان و یارمەتیدەرە (Very kind and helpful)",
+      "ئەو چۆنە؟ (How is he/she?)",
+      "ئەو باڵابەرز و قژ ڕەشە (He/she is tall with black hair)",
+      "ئەو چەند ساڵە؟ (How old is he/she?)",
+      "نزیکەی سی ساڵە (About thirty years old)",
+      "ئەو لە کوێ کار دەکات؟ (Where does he/she work?)",
+      "لە مۆزەخانە کار دەکات (He/she works at the museum)"
+    ]
+  },
+  {
+    "topic": "Booking Activities",
+    "newSkills": [
+      "Making reservations for activities",
+      "Asking about availability",
+      "Discussing prices and options",
+      "Understanding cancellation policies",
+      "Confirming bookings"
+    ],
+    "newPhrases": [
+      "دەتوانم شوێنێک تەرخان بکەم؟ (Can I make a reservation?)",
+      "بەڵێ، بۆ چەند کەس؟ (Yes, for how many people?)",
+      "بۆ دوو کەس (For two people)",
+      "کەی بەردەستە؟ (When is it available?)",
+      "سبەینێ بەردەستە (It's available tomorrow)",
+      "نرخەکەی چەندە؟ (How much does it cost?)",
+      "بۆ هەر کەسێک سی هەزار دینارە (It's 30,000 dinars per person)",
+      "دەتوانم هەڵیوەشێنمەوە؟ (Can I cancel it?)",
+      "بەڵێ، بەڵام ٢٤ کاتژمێر پێشتر (Yes, but 24 hours in advance)",
+      "تکایە، شوێنەکەم پشتڕاست بکەوە (Please confirm my reservation)"
+    ]
+  },
+  {
+    "topic": "Asking for Recommendations",
+    "newSkills": [
+      "Asking locals for suggestions",
+      "Understanding recommendations",
+      "Asking about hidden gems",
+      "Discussing local favorites",
+      "Expressing gratitude for advice"
+    ],
+    "newPhrases": [
+      "باشترین شوێن بۆ سەردان کوێیە؟ (What's the best place to visit?)",
+      "قەڵای هەولێر زۆر بەناوبانگە (Erbil Citadel is very famous)",
+      "شوێنێکی باش بۆ خواردن؟ (A good place to eat?)",
+      "ئەم چێشتخانەیە خواردنی باشی هەیە (This restaurant has good food)",
+      "گەشتیاران نایناسن؟ (Tourists don't know about it?)",
+      "نا، تەنها خەڵکی ناوخۆ دەیزانن (No, only locals know it)",
+      "چی پێشنیار دەکەیت؟ (What do you recommend?)",
+      "پێشنیار دەکەم بازاڕی کۆن ببینیت (I recommend seeing the old bazaar)",
+      "زۆر سوپاس بۆ پێشنیارەکانت (Thank you very much for your recommendations)",
+      "شتێکی تایبەت هەیە بیکەم؟ (Is there something special I should do?)"
+    ]
+  },
+  {
+    "topic": "Expressing Feelings",
+    "newSkills": [
+      "Talking about emotions",
+      "Asking how someone feels",
+      "Expressing happiness/sadness",
+      "Discussing comfort/discomfort",
+      "Using emotional adjectives"
+    ],
+    "newPhrases": [
+      "هەست بە چی دەکەیت؟ (How do you feel?)",
+      "هەست بە خۆشی دەکەم (I feel happy)",
+      "بۆچی خەمباریت؟ (Why are you sad?)",
+      "دڵتەنگی ماڵەوەم (I miss home)",
+      "زۆر ماندووم (I'm very tired)",
+      "زۆر دڵخۆشم لێرەم (I'm very glad to be here)",
+      "ئایا ئاسوودەیت؟ (Are you comfortable?)",
+      "بەڵێ، زۆر ئاسوودەم (Yes, I'm very comfortable)",
+      "نیگەرانم (I'm worried)",
+      "هەست بە باشی دەکەم (I feel good)"
+    ]
+  },
+  {
+    "topic": "Talking about Travel Plans",
+    "newSkills": [
+      "Discussing future travel",
+      "Talking about itineraries",
+      "Using future tense",
+      "Planning visits",
+      "Expressing intentions"
+    ],
+    "newPhrases": [
+      "بەنیازم بچم بۆ... (I intend to go to...)",
+      "کەی دەڕۆیت؟ (When are you leaving?)",
+      "دوو ڕۆژی تر دەڕۆم (I'm leaving in two days)",
+      "پلانت چییە؟ (What is your plan?)",
+      "دەمەوێت سلێمانی ببینم (I want to see Sulaymaniyah)",
+      "چەند ڕۆژ دەمێنیتەوە؟ (How many days will you stay?)",
+      "بۆ حەوت ڕۆژ دەمێنمەوە (I'll stay for seven days)",
+      "دواتر بۆ کوێ دەچیت؟ (Where will you go next?)",
+      "دواتر دەچم بۆ دهۆک (Next I'll go to Duhok)",
+      "دەگەڕێیتەوە بۆ کوردستان؟ (Will you return to Kurdistan?)"
+    ]
+  },
+  {
+    "topic": "Talking about the Past",
+    "newSkills": [
+      "Using past tense verbs",
+      "Describing past experiences",
+      "Asking about past events",
+      "Discussing previous visits",
+      "Expressing memories"
+    ],
+    "newPhrases": [
+      "پێشتر هاتوویتە کوردستان؟ (Have you been to Kurdistan before?)",
+      "بەڵێ، ساڵی پار هاتم (Yes, I came last year)",
+      "چیت کرد؟ (What did you do?)",
+      "زۆر شوێنم بینی (I saw many places)",
+      "کوێت پێ باش بوو؟ (Which place did you like?)",
+      "قەڵای هەولێرم پێ باش بوو (I liked Erbil Citadel)",
+      "چۆن بوو؟ (How was it?)",
+      "زۆر جوان و سەرنجڕاکێش بوو (It was very beautiful and interesting)",
+      "کەی گەڕایتەوە؟ (When did you return?)",
+      "مانگی حوزەیران گەڕامەوە (I returned in June)"
+    ]
+  },
+  {
+    "topic": "Talking about Family",
+    "newSkills": [
+      "Discussing family members",
+      "Asking about relatives",
+      "Using possessive forms",
+      "Describing family relationships",
+      "Talking about family size"
+    ],
+    "newPhrases": [
+      "خێزانت لەگەڵتە؟ (Is your family with you?)",
+      "بەڵێ، هاوسەرەکەم لێرەیە (Yes, my spouse is here)",
+      "چەند منداڵت هەیە؟ (How many children do you have?)",
+      "دوو منداڵم هەیە (I have two children)",
+      "براو خوشکت هەیە؟ (Do you have brothers and sisters?)",
+      "یەک برا و دوو خوشکم هەیە (I have one brother and two sisters)",
+      "دایک و باوکت لە کوێن؟ (Where are your parents?)",
+      "لە وڵاتەکەم دەژین (They live in my country)",
+      "خێزانت گەورەیە؟ (Is your family big?)",
+      "بەڵێ، خێزانێکی گەورەم هەیە (Yes, I have a big family)"
+    ]
+  },
+  {
+    "topic": "Describing Places",
+    "newSkills": [
+      "Using descriptive adjectives",
+      "Comparing locations",
+      "Discussing features of places",
+      "Expressing opinions about locations",
+      "Using spatial prepositions"
+    ],
+    "newPhrases": [
+      "ئەم شارە چۆنە؟ (How is this city?)",
+      "شارێکی گەورە و جوانە (It's a big and beautiful city)",
+      "چی تایبەتمەندی هەیە؟ (What features does it have?)",
+      "شاخ و ڕووبار و بازاڕی هەیە (It has mountains, rivers, and markets)",
+      "لە چی بەناوبانگە؟ (What is it famous for?)",
+      "بە خواردن و میوانداری بەناوبانگە (It's famous for food and hospitality)",
+      "کەشوهەواکەی چۆنە؟ (How is the weather?)",
+      "هاوینی گەرم و زستانی ساردی هەیە (It has hot summers and cold winters)",
+      "لە وڵاتەکەت جیاوازە؟ (Is it different from your country?)",
+      "بەڵێ، زۆر جیاوازە (Yes, it's very different)"
+    ]
+  },
+  {
+    "topic": "Talking about Hobbies",
+    "newSkills": [
+      "Discussing leisure activities",
+      "Asking about interests",
+      "Expressing preferences",
+      "Using verbs for activities",
+      "Talking about frequency"
+    ],
+    "newPhrases": [
+      "لە کاتی بەتاڵیدا چی دەکەیت؟ (What do you do in your free time?)",
+      "حەزم لە خوێندنەوە و وێنەگرتنە (I like reading and photography)",
+      "وەرزش دەکەیت؟ (Do you do sports?)",
+      "بەڵێ، تۆپی پێ یاری دەکەم (Yes, I play football)",
+      "چەند جار لە هەفتەیەکدا؟ (How many times per week?)",
+      "سێ جار لە هەفتەیەکدا (Three times per week)",
+      "حەزت لە چ جۆرە مۆسیقایەکە؟ (What kind of music do you like?)",
+      "حەزم لە مۆسیقای کلاسیکە (I like classical music)",
+      "فیلم سەیر دەکەیت؟ (Do you watch movies?)",
+      "بەڵێ، حەزم لە فیلمی دراما و کۆمیدییە (Yes, I like drama and comedy movies)"
+    ]
+  },
+  {
+    "topic": "Talking about Work",
+    "newSkills": [
+      "Discussing professions",
+      "Asking about jobs",
+      "Talking about workplaces",
+      "Describing job responsibilities",
+      "Using work-related vocabulary"
+    ],
+    "newPhrases": [
+      "کارت چییە؟ (What is your job?)",
+      "من مامۆستام (I am a teacher)",
+      "لە کوێ کار دەکەیت؟ (Where do you work?)",
+      "لە قوتابخانەیەک کار دەکەم (I work at a school)",
+      "کارەکەت خۆشە؟ (Do you like your job?)",
+      "بەڵێ، زۆر خۆشە (Yes, I like it very much)",
+      "چەند کاتژمێر کار دەکەیت؟ (How many hours do you work?)",
+      "ڕۆژانە هەشت کاتژمێر (Eight hours daily)",
+      "چەند ساڵە کار دەکەیت؟ (How many years have you been working?)",
+      "پێنج ساڵە کار دەکەم (I've been working for five years)"
+    ]
+  },
+  {
+    "topic": "Emergencies",
+    "newSkills": [
+      "Asking for urgent help",
+      "Describing emergency situations",
+      "Contacting emergency services",
+      "Understanding safety instructions",
+      "Reporting problems"
+    ],
+    "newPhrases": [
+      "یارمەتی! (Help!)",
+      "ڕووداوێک هەیە (There's an accident)",
+      "تکایە پۆلیس بانگ بکە (Please call the police)",
+      "ژمارەی فریاکەوتن چییە؟ (What's the emergency number?)",
+      "ژمارەی فریاکەوتن ١٢٢یە (The emergency number is 122)",
+      "پێویستم بە دکتۆرە (I need a doctor)",
+      "کێشەیەکم هەیە (I have a problem)",
+      "ون بووم (I am lost)",
+      "دزییان لێ کردم (I was robbed)",
+      "تکایە خێرا بن (Please hurry)"
+    ]
+  },
+  {
+    "topic": "Saying Goodbye",
+    "newSkills": [
+      "Using farewell expressions",
+      "Expressing gratitude",
+      "Making future plans to meet",
+      "Exchanging contact information",
+      "Wishing well"
+    ],
+    "newPhrases": [
+      "خواحافیز (Goodbye)",
+      "بە هیوای دیدار (See you later)",
+      "سەفەرێکی خۆشت هەبێت (Have a nice trip)",
+      "زۆر سوپاس بۆ هەموو شتێک (Thank you for everything)",
+      "دەتوانین پەیوەندی بکەین؟ (Can we keep in touch?)",
+      "بەڵێ، ئەمە ئیمەیلەکەمە (Yes, this is my email)",
+      "جارێکی تر دێمەوە (I will come back again)",
+      "کەی دەگەڕێیتەوە؟ (When will you return?)",
+      "ساڵی داهاتوو دەگەڕێمەوە (I will return next year)",
+      "کوردستان زۆر جوان بوو (Kurdistan was very beautiful)"
+    ]
+  },
+  {
+    "topic": "Compliments and Appreciation",
+    "newSkills": [
+      "Giving compliments",
+      "Expressing appreciation",
+      "Responding to compliments",
+      "Using superlative adjectives",
+      "Showing gratitude"
+    ],
+    "newPhrases": [
+      "خواردنەکە زۆر خۆشە (The food is very delicious)",
+      "زۆر سوپاس (Thank you very much)",
+      "میوانداریتان زۆر باشە (Your hospitality is very good)",
+      "کوردستان زۆر جوانە (Kurdistan is very beautiful)",
+      "خەڵکی کوردستان زۆر میهرەبانن (Kurdish people are very kind)",
+      "ئەمە باشترین گەشتی ژیانم بوو (This was the best trip of my life)",
+      "زۆر سوپاس بۆ یارمەتیت (Thank you very much for your help)",
+      "شەرەفمەندم بە ناسینت (I'm honored to meet you)",
+      "منیش شەرەفمەندم (I'm honored too)",
+      "هەرگیز ئەم سەردانەم لەبیر ناچێت (I will never forget this visit)"
+    ]
+  },
+  {
+    "topic": "Cultural Etiquette",
+    "newSkills": [
+      "Understanding cultural norms",
+      "Asking about appropriate behavior",
+      "Using polite expressions",
+      "Discussing customs",
+      "Avoiding cultural misunderstandings"
+    ],
+    "newPhrases": [
+      "چی دەبێت بکەم کاتێک سەردانی ماڵێک دەکەم؟ (What should I do when visiting a home?)",
+      "پێڵاوەکانت دابکەنە و دیاری بچووک ببە (Take off your shoes and bring a small gift)",
+      "چۆن سڵاو بکەم؟ (How should I greet people?)",
+      "دەست بدە و بڵێ سڵاو (Shake hands and say hello)",
+      "دەبێت چی نەکەم؟ (What should I not do?)",
+      "بە دەستی چەپ خواردن مەدە بە کەسێک (Don't give food with your left hand)",
+      "چۆن سوپاس بکەم؟ (How do I say thank you?)",
+      "بڵێ 'زۆر سوپاس' یان 'دەستت خۆش' (Say 'zor supas' or 'dastet xosh')",
+      "ئایا دەبێت بەخشیش بدەم؟ (Should I give tips?)",
+      "بەڵێ، دە لەسەدا باشە (Yes, 10% is good)"
+    ]
+  },
+  {
+    "topic": "Technology and Internet",
+    "newSkills": [
+      "Asking about WiFi",
+      "Discussing internet access",
+      "Using tech vocabulary",
+      "Asking for charging options",
+      "Discussing mobile services"
+    ],
+    "newPhrases": [
+      "وایفای هەیە؟ (Is there WiFi?)",
+      "بەڵێ، وایفای بەخۆڕایی هەیە (Yes, there is free WiFi)",
+      "وشەی نهێنی چییە؟ (What is the password?)",
+      "وشەی نهێنی ئەمەیە (The password is this)",
+      "دەتوانم مۆبایلەکەم شەحن بکەم؟ (Can I charge my phone?)",
+      "بەڵێ، پریزی کارەبا لەوێیە (Yes, the power outlet is there)",
+      "سیمکارتی ناوخۆیی دەتوانم بکڕم؟ (Can I buy a local SIM card?)",
+      "بەڵێ، لە دوکانی مۆبایل (Yes, at the mobile shop)",
+      "ئینتەرنێت خێرایە؟ (Is the internet fast?)",
+      "بەڵێ، ئینتەرنێت خێرایە (Yes, the internet is fast)"
+    ]
+  },
+  {
+    "topic": "Taking Photos",
+    "newSkills": [
+      "Asking permission for photography",
+      "Discussing photo opportunities",
+      "Using camera vocabulary",
+      "Asking for posing",
+      "Discussing photo sharing"
+    ],
+    "newPhrases": [
+      "دەتوانم وێنەت بگرم؟ (Can I take your picture?)",
+      "بەڵێ، دەتوانیت (Yes, you can)",
+      "دەتوانم وێنەی ئەم شوێنە بگرم؟ (Can I take a picture of this place?)",
+      "بەڵێ، بەڵام بێ فلاش (Yes, but without flash)",
+      "دەتوانیت وێنەیەکمان بگریت؟ (Can you take our picture?)",
+      "بەڵێ، بە دڵنیاییەوە (Yes, certainly)",
+      "لێرە بوەستە تکایە (Stand here please)",
+      "بزەبکە! (Smile!)",
+      "دەتوانم وێنەکە لە سۆشیال میدیا دابنێم؟ (Can I post the photo on social media?)",
+      "بەڵێ، بەڵام ناوم بنووسە (Yes, but write my name)"
+    ]
+  },
+  {
+    "topic": "Expressing Gratitude",
+    "newSkills": [
+      "Using thank you expressions",
+      "Responding to thanks",
+      "Expressing deep gratitude",
+      "Showing appreciation for hospitality",
+      "Writing thank you notes"
+    ],
+    "newPhrases": [
+      "زۆر سوپاس (Thank you very much)",
+      "تکایە، شایانی نییە (You're welcome, it's nothing)",
+      "چۆن سوپاست بکەم؟ (How can I thank you?)",
+      "پێویست ناکات (It's not necessary)",
+      "زۆر مەمنوونم (I'm very grateful)",
+      "دەستت خۆش (Thank you/well done - literally 'may your hand be well')",
+      "سوپاس بۆ میوانداریت (Thanks for your hospitality)",
+      "بە خۆشحاڵییەوە (With pleasure)",
+      "سوپاس بۆ هەموو شتێک (Thanks for everything)",
+      "هیوادارم بتوانم قەرەبووت بکەمەوە (I hope I can repay you)"
+    ]
+  }
+]

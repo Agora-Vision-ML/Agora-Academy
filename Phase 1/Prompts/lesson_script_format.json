@@ -1,0 +1,23 @@
+{
+    "type": "array",
+    "description": "a list of sections that make up the given lesson script",
+    "items": {
+        "type": "object",
+        "description": "a single section in the lesson script",
+        "required": ["name", "metadata", "text"],
+        "properties": {
+            "name": {
+                "type": "string",
+                "description": "the name of the section"
+            },
+            "metadata": {
+                "type": "string",
+                "description": "the collection of items you need to figure out beforehand that will be used to generate the text."
+            },
+            "text": {
+                "type": "string",
+                "description": "the actual content of the section that will appear in the script"
+            }
+        }
+    }
+}

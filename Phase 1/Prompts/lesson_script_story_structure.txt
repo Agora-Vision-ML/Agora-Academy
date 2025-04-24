@@ -1,0 +1,111 @@
+## In this lesson, we are required to review the following items:
+--Topic Words--
+[new_words]
+
+--Topic Phrases--
+[new_phrases]
+
+## Assume that up until this point, the learner knows only the following words, phrases, and grammar concepts (sorted from oldest to newest):
+--Previous Words--
+[old_words]
+
+--Previous Phrases--
+[old_phrases]
+
+## You are tasked with generating the lesson script considering the information given. This lesson is a long story lesson where the listener practices the topic items by applying them within context. Here is how the lesson should be structured:
+1- Start the lesson with greeting and lesson overview.
+2- Recap the items the listener has learned in this topic briefly. The recap should be as follows:
+2.1- A 1 paragraph summary where you go over the new things the listener knows how to talk about using the topic phrases. For example:
+Narrator) In this topic, we learned how to ____ using the phrases [phrase1], [phrase2], and [phrase3].
+2.2- A 1 paragraph summary where you go over the new language concepts the listener can use in a wide range of scenarios using the topic concepts. For example:
+Narrator) We also learned how _____, such as in [concept_example1] and [concept_example2]
+You can get creative with the way you phrase this recap, but try to follow a similar structure.
+3- Introduce the story by going over the characters, their roles, the setting, and the plot. Prompt the listener to pay attention to the story. Here are some notes for how to make the story:
+3.1- Give your characters names in [target_language]. These male and female names will replace the Man) and Woman) tags at the beginning of their lines. For example, if the names you pick are John and Susan, their lines should start with John) and Susan).
+3.2- The listener will take on the role of the second character in this dialogue, meaning the first line of dialogue must be the other character and they should start the conversation with a question and the convo should continue from there. This way, when the listener plays the role of the second character, they will be able to respond to the first line of dialogue and get into character. In the following example, the listener will take on the role of David:
+Narrator) Listen to the following story
+Sarah) Hello there, welcome to the park, how can I help you?
+David) Where is the bathroom?
+3.3- Alternate between the narrator providing some narration to the story and the characters conversing between themselves.
+3.4- The story should be interesting but simple, since it'll be hard for our [source_language] listeners to pick up on all the [target_language] dialogue at once. You can add some humor or suspense but only use the words the listener knows how to speak considering the provided vocabulary.
+3.5- The story should not be too long, maximum 12 lines of dialogue.
+4- After the story is over, ask the listener questions about what happened in the story to test their understanding of the language. The answers to these questions should be in [source_language], and should be structured like this:
+4.1- Ask the listener a question about the story
+4.2- Have a small pause
+4.3- Make the narrator provide the answer
+For example:
+Narrator) Where did John want to go for the evening?
+[pause]
+Narrator) The correct answer is: a restaurant by the sea
+5- Now we enter roleplay mode. At this part of the script, the narrator should inform the listener that they will be taking on the role of the second character in the story, and their job is to try and talk to the other character just like how the story went originally. That way the other character can start the conversation and the listener can respond accordingly. This roleplay should go like this:
+5.1- Tell the listener which role they are playing, and that they should respond to the other character during conversation.
+5.2- Start the story again with the other character saying their first line. 
+5.3- Add a pause for every time the listener should respond.
+5.4- Each time the other character talks, they should finish with a question to prompt a response from the listener, because the listener might not remember the whole story and they need some guidance. Try to rephrase the other character's dialogue if need be to make the listener respond each time.
+5.5- Make the narrator provide a hint each time as to what the expected response should be right before the listener should respond. For example:
+Sarah) How can I help you today?
+Narrator) Ask where you can buy a shirt
+[pause]
+Sarah) You can buy a shirt at the mall
+5.6- Go through the entire story from start to finish.
+6- Now we enter modified mode. This is similar to the roleplay mode where the listener responds to the other character, but this time, the story slightly changes so the listener has to give different answers. Adjust the structure of the story slightly so the listener should give a different response this time for when the other character talks. Follow the same steps as 5.1 - 5.6, but this time, you are not allowed to give ANY narrator hints. The listener is on their own.
+7- Conclude the lesson with encouragement for completing the topic, and tell the listener to come back for the next topic.
+
+Here are some notes to consider about this lesson:
+- Use only the words, phrases, and concepts listed in the previous lists. Do not stray too far out of this vocabulary because the listener will be lost as they have only come across the provided items.
+- Don't make the listener have to memorize too many detailed responses because it will just get confusing. Stick to short, straightforward responses that are easy to remember.
+- You should ask at least 3 questions about the story after the initial story is told. They don't all have to be detailed questions like the price of a jacket or the number of beds, it can be plot events like what mode of transportation a character took.
+- Do not include any transliterations, including writing the non-Latin language words using the Latin alphabet. (this script is going to be listened to, not read, so a transliteration is unnecessary)
+   * Example: 
+<Incorrect Version>
+Narrator) Let's learn our first new word: "ناو" (naw),
+<Correct Version>
+Narrator) Let's learn our first new word: "ناو",
+- If a grammar concept is explicitly named, the name of it should be in [source_language] and not [target_language]. Since this is the first time the listeners are learning how to talk in [target_language], stating the name of the grammar concepts in [target_language] is unnecessary and confusing. For example, if the source language is Kurdish Sorani, and the grammar concept is "to be" in English, the script should describe it as (کاری "بوون") and not "to be".
+- To give a preview of the next topic at the end of this lesson, this is what the title will be:
+[next_topic]
+
+Your response should be the sections of the lesson in an array in JSON format. These are all the sections you have to utilize throughout the lesson, you can add as many as you want (at least one of each) and reorder them however you see fit into the script:
+
+section:Introduction
+text:[introduce the listener to the lesson here]
+#
+section:Recap Topic Phrases
+categories_of_recapped_phrases:[list of categories separated by commas]
+text:[mention briefly the different types of phrases the listener learned as well as a few examples as outlined in step 2.1]
+#
+section:Recap Topic Grammar Concepts
+categories_of_recapped_concepts:[list of categories separated by commas]
+text:[mention briefly the different concepts the listener learned as well as a few examples as outlined in step 2.2]
+#
+section:Story Setup
+character_1_name:[[target_language] name]
+character_2_name:[[target_language] name]
+text:[describe the story characters, their roles, the setting, and overall plot that's about to unfold as outlined in step 3]
+#
+section:Story Content
+previously_learned_words_to_use:[list of words separated by commas]
+previously_learned_phrases_to_use:[list of phrases separated by commas]
+topic_words_to_use:[list of words separated by commas]
+topic_phrases_to_use:[list of phrases separated by commas]
+plot_events:[list of events separated by commas]
+text:[provide the full story here as outlined in steps 3.1 to 3.3]
+#
+section:Story Question
+relevant_plot_event:[one of the events from plot_events]
+text:[ask a question about the story, pause, and provide the answer as outlined in steps 4.1 to 4.3]
+#
+section:Roleplay Content
+role_the_listener_will_play:[character name]
+other_character_lines_as_questions:[list of other character lines phrased as questions separated by commas]
+narrator_hints:[list of hints for other character lines separated by commas]
+text:[go through the full story again but this time remove one of the character's lines and replace it with prompt-and-answer conversation with the listener as outlined in steps 5.1 to 5.6]
+#
+section:Modified Content
+same_role_the_listener_will_play:[same character as role_the_listener_will_play]
+plot_event_changes:[list of changes separated by commas]
+new_other_character_lines_as_questions:[list of other character lines phrased as questions separated by commas]
+text:[provide the plot change description and go through the updated story this time as outlined in step 6]
+#
+section:Conclusion
+text:[end off the lesson, congratulate the listener for completing this topic, and prompt them to come back again for the next topic]

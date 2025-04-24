@@ -1,0 +1,38 @@
+{
+    "type": "array",
+    "description": "a list of grammar concepts and their specific components necessary to learn for the given CEFR level",
+    "items": {
+        "type": "object",
+        "description": "a given grammar concept",
+        "required": ["name", "components"],
+        "properties": {
+            "name": {
+                "type": "string",
+                "description": "a name for the grammar concept"
+            },
+            "components": {
+                "type": "array",
+                "description": "the list of components that make up the entire grammar concept",
+                "items":{
+                    "type": "object",
+                    "description": "a given component of a grammar concept",
+                    "required": ["description", "examples"],
+                    "properties": {
+                        "description": {
+                            "type": "string",
+                            "description": "a quick description of what the component is. This must be in the source language"
+                        },
+                        "examples": {
+                            "type": "array",
+                            "description": "a list of 3 examples for the given component of how it's used in a word, phrase, or sentence. These must be in the target language",
+                            "items": {
+                                "type": "string",
+                                "description": "a simple example implementation of the given component"
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

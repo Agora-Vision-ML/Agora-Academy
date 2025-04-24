@@ -1,0 +1,46 @@
+{
+    "type": "object",
+    "description": "a single cycle of the course that implements the topic structure",
+    "required": ["topic", "lessons"],
+    "properties": {
+        "topic": {
+            "type": "string",
+            "description": "the name of the cycle"
+        },
+        "lessons": {
+            "type": "array",
+            "description": "the list of lessons that make up this cycle",
+            "items": {
+                "type": "object",
+                "description": "a single lesson in this cycle",
+                "required": ["concepts", "words", "phrases"],
+                "properties": {
+                    "concepts": {
+                        "type": "array",
+                        "description": "the list of concepts in this lesson",
+                        "items": {
+                            "type": "string",
+                            "description": "a single concept in this lesson"
+                        }
+                    },
+                    "words": {
+                        "type": "array",
+                        "description": "the list of words in this lesson",
+                        "items": {
+                            "type": "string",
+                            "description": "a single word in this lesson"
+                        }
+                    },
+                    "phrases": {
+                        "type": "array",
+                        "description": "the list of the phrases one can make out of the words taught in the lesson",
+                        "items": {
+                            "type": "string",
+                            "description": "a single phrase in this lesson"
+                        }
+                    }
+                }
+            }
+        }
+    }
+}

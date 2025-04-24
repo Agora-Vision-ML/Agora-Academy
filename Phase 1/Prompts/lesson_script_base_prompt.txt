@@ -1,0 +1,26 @@
+## We are in topic #[topic_number] of the course, titled "[topic_name]". We are at lesson #[lesson_number] out of [total_lessons_for_topic] of the topic. 
+
+Here is a general example of a lesson teaching Kurdish Sorani for English listeners, use it as a reference to follow a similar structure:
+<example>
+[example]
+</example>
+
+[lesson_structure]
+
+Some general guidelines for writing the script:
+- Start the lesson with a greeting and lesson overview, typically in the following format:
+Welcome back to our [[target_language] translated in [source_language]] language course! We are in Topic #[topic_number] - [topic_name], and this is our first/second/third/... [lesson type]. In the previous lesson, [what the listener did in the previous lesson]. In this lesson, [what the listener will do in this lesson]
+- Each speaker's line should start with [speaker name]) to make it clear who is saying what, like Narrator), Man), and Woman).
+- If a pause is needed for the listener to practice the new items, simply write [pause] on that line.
+- Man and Woman can only talk in [target_language], but the narrator should talk in [source_language], though the narrator can speak in [target_language] to reference the new items if need be.
+- The 'Narrator)' tag must be written as is, in English. No need to translate it into [source_language]. The speaker tags can be written in [source_language] if they are characters and not just 'man' or 'woman'.
+- All script lines that are not spoken by the characters or the man/woman speakers are the narrator, so they must have the 'Narrator)' tag
+- Make sure the lines the characters (man and woman) speak are compatible with their gender. For example, the Woman can not say "My name is John".
+- Since this script is not going to be read, remove any part that requires visually seeing the script. Examples of parts that need to be removed are as follows (if they need to be kept for understanding purposes, rephrase them so it's just pure [source_language] characters and text):
+   * Punctuation instructions (e.g. - Then add the question mark)
+   * Equations and symbols (+, =, -, /) should be (plus, is, without, or) (e.g. his/her -> his or her, name + adjective -> name and adjective)
+   * Lists (New words:
+		- ناو (naw) - name
+		- چی (chee) - what...)
+   * Placeholder ellipses or blanks ( ناوم ... ـە should be ناوم شیلانە)
+- Respond only with the script in the specified format, no need to say "here is the script" or anything like that. Remeber you can have as many of each section as you want (but at least one of each)
