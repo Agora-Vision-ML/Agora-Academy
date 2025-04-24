@@ -124,6 +124,12 @@ Man) ناو
 Man) ناو
 [pause]
 - Occaisionally switch up whether Man or Woman introduces a new word or phrase to have some variety. Note that whichever you choose, it must match the relevant gender in the phrase. For example, the Woman can not say "My name is John".
+- After the Man or Woman introduces a new phrase, the Narrator should NOT translate each single word and then the whole phrase together as this will make the script unnecessarily long. The only thing the Narrator can say after a new phrase is introduced is pronounciation, grammar, or utilization tips.
+* Example:
+<Incorrect Version>
+Narrator) In this new phrase, "سڵاو" means "hello", "خۆشحاڵ" means "happy" or "pleased", "م" means "I am", "بە" means "by", "ناسین" means "meeting", and "ت" means "you". So, "سڵاو، خۆشحاڵم بە ناسینت" means "Hello, I am pleased by meeting you". Notice how the "ڵاو" sound uses a heavier "l" sound by placing your tongue against the roof of your mouth. Also, the ending "م" ties the expression "happy" back to "I". This is a lovely expression you can use after meeting someone for the first time.
+<Correct Version>
+Narrator) Notice how the "ڵاو" sound uses a heavier "l" sound by placing your tongue against the roof of your mouth. Also, the ending "م" ties the expression "happy" back to "I". This is a lovely expression you can use after meeting someone for the first time.
 - DO NOT use words that have not been listed in the vocabulary provided previously. For example, if the words "summer", "2002", and "storage" are not part of the new_words list or previous_words list, you can't use them.
 - Any time you ask the listener to recall an item, format the script so that the Narrator sets up the question and either the man or the woman gives the answer (alternate between the man and woman across questions for variety), like so:
 Narrator) [ask the question]
