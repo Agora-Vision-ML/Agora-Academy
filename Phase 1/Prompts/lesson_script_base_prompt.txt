@@ -16,11 +16,11 @@ Welcome back to our [[target_language] translated in [source_language]] language
 - The 'Narrator)' tag must be written as is, in English. No need to translate it into [source_language]. The speaker tags can be written in [source_language] if they are characters and not just 'man' or 'woman'.
 - All script lines that are not spoken by the characters or the man/woman speakers are the narrator, so they must have the 'Narrator)' tag
 - Make sure the lines the characters (man and woman) speak are compatible with their gender. For example, the Woman can not say "My name is John".
-- Since this script is not going to be read, remove any part that requires visually seeing the script. Examples of parts that need to be removed are as follows (if they need to be kept for understanding purposes, rephrase them so it's just pure [source_language] characters and text):
-   * Punctuation instructions (e.g. - Then add the question mark)
-   * Equations and symbols (+, =, -, /) should be (plus, is, without, or) (e.g. his/her -> his or her, name + adjective -> name and adjective)
-   * Lists (New words:
+- DO NOT provide punctuation instructions (e.g. When you ask a question, add a question mark at the end. Use an apostraphe to indicate ownership)
+- DO NOT provide capitalization instructions (e.g. The word "I" is always capital. "You" is only capitalized at the beginning of the sentence)
+- DO NOT use equations and symbols (+, =, -, /); they should be (plus, is, without, or) (e.g. his/her -> his or her, name + adjective -> name and adjective)
+- DO NOT use lists (e.g. New words:
 		- ناو (naw) - name
 		- چی (chee) - what...)
-   * Placeholder ellipses or blanks ( ناوم ... ـە should be ناوم شیلانە)
+- DO NOT use placeholder ellipses or blanks ( ناوم ... ـە should be ناوم شیلانە)
 - Respond only with the script in the specified format, no need to say "here is the script" or anything like that. Remeber you can have as many of each section as you want (but at least one of each)

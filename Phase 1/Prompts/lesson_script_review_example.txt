@@ -1,25 +1,22 @@
-Narrator) Welcome back to our Kurdish Sorani language course! We’re in Topic #1 - Greetings and Introductions, and this is our rapid review lesson. Today, we'll be quickly going through all the words, phrases, and grammar concepts we've learned so far in this topic. I'll ask you questions, give you a moment to think, and then provide the answer. This back-and-forth practice will help solidify what you've learned. Let's get started!
+Narrator) Welcome back to our Kurdish Sorani language course! We’re in Topic #1 - Greetings and Introductions, and this is our rapid review lesson. Today, we'll be quickly going through all the words, phrases, and grammar concepts we've learned so far in this topic. I'll ask you questions, give you a moment to think and speak out loud, and then provide the answer. This back-and-forth practice will help solidify what you've learned. Let's get started!
 Narrator) How do you say "hello" in Sorani Kurdish?
 [pause]
 Man) سڵاو
-Narrator) How do you say "how are you" in Sorani Kurdish?
+Narrator) How do you say "I" Sorani Kurdish?
 [pause]
-Woman) چۆنی؟
-Narrator) How do you say "good, thanks" in Sorani Kurdish?
+Woman) من
+Narrator) How do you say "you" Sorani Kurdish?
 [pause]
-Man) باشم، سوپاس
-Narrator) How do you say "I" and "you" in Sorani Kurdish?
-[pause]
-Woman) من، تۆ
+Woman) تۆ
 Narrator) How do you say "name" in Sorani Kurdish?
 [pause]
-Man) ناو، چی
+Man) ناو
 Narrator) How do you say "he" or "she" in Sorani Kurdish?
 [pause]
 Woman) ئەو
 Narrator) How do you say "pleased" in Sorani Kurdish?
 [pause]
-Man) خۆشحاڵ، ناسین
+Man) خۆشحاڵ
 Narrator) How do you say "yes" and "no" in Sorani Kurdish?
 [pause]
 Woman) بەڵێ، نەخێر
@@ -29,15 +26,9 @@ Man) بەیانی باش، شەو باش
 Narrator) What is the meaning of "سڵاو"?
 [pause]
 Narrator) It means: hello
-Narrator) What is the meaning of "چۆنی"?
-[pause]
-Narrator) It means: how are you
-Narrator) What is the meaning of "باش" and "سوپاس"?
-[pause]
-Narrator) They mean: good and thank you
 Narrator) What is the meaning of "من", "تۆ", and "ئەو"?
 [pause]
-Narrator) They mean: you, I, and he/she
+Narrator) They mean: you, I, and he or she
 Narrator) What is the meaning of "چی"?
 [pause]
 Narrator) It means: what
@@ -50,6 +41,12 @@ Narrator) They mean: yes and no
 Narrator) What is the meaning of "بەیانی باش" and "شەو باش"?
 [pause]
 Narrator) They mean: good morning and good night
+Narrator) How do you say "how are you" in Sorani Kurdish?
+[pause]
+Woman) چۆنی؟
+Narrator) How do you say "good, thanks" in Sorani Kurdish?
+[pause]
+Man) باشم، سوپاس
 Narrator) How do you say "What is your name?" in Sorani Kurdish?
 [pause]
 Woman) ناوت چییە؟
@@ -68,6 +65,9 @@ Woman) بەخێربێیت
 Narrator) How do you say "Please" in Sorani Kurdish?
 [pause]
 Man) تکایە
+Narrator) What is the meaning of "چۆنی"?
+[pause]
+Narrator) It means: how are you
 Narrator) What is the meaning of "ناوت چییە"?
 [pause]
 Narrator) It means: What is your name?
@@ -81,37 +81,27 @@ Narrator) What is the meaning of "منیش خۆشحاڵم"?
 [pause]
 Narrator) It means: I am also pleased
 Narrator) Which is the correct way to say "I am good" in Sorani Kurdish?
-Man) من باش
-Man) من باشم
-Man) باشم من
+Man) من باش,  من باشم, باشم من
 [pause]
 Narrator) The correct answer is
 Man) من باشم
 Narrator) Which is the correct way to say "He is good" in Sorani Kurdish?
-Woman) ئەو باشم
-Woman) ئەو باشیت
-Woman) ئەو باشە
+Woman) ئەو باشم, ئەو باشیت, ئەو باشە
 [pause]
 Narrator) The correct answer is
 Woman) ئەو باشە
 Narrator) Which is the correct way to ask "What is his name?" in Sorani Kurdish?
-Man) ناوی چییە؟
-Man) ناوی چی؟
-Man) چی ناوی؟
+Man) ناوی چییە؟, ناوی چی؟, چی ناوی؟
 [pause]
 Narrator) The correct answer is
 Man) ناوی چییە؟
 Narrator) Which is the correct way to say "My name is Azad" in Sorani Kurdish?
-Man) ناو من ئازادە
-Man) ناوم ئازادە
-Man) من ناوم ئازاد
+Man) ناو من ئازادە, ناوم ئازادە, من ناوم ئازاد
 [pause]
 Narrator) The correct answer is
 Man) ناوم ئازادە
 Narrator) Which is the correct way to ask "Are you good?" in Sorani Kurdish?
-Man) تۆ باش؟
-Man) تۆ باشیت؟
-Man) باشیت تۆ؟
+Man) تۆ باش؟, تۆ باشیت؟, باشیت تۆ؟
 [pause]
 Narrator) The correct answer is
 Man) تۆ باشیت؟

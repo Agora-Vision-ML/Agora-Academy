@@ -1,7 +1,4 @@
 ## This is the entire vocabulary of items the listener knows so far (sorted from oldest to newest):
---Previous Words--
-[old_words]
-
 --Previous Phrases--
 [old_phrases]
 
@@ -9,9 +6,6 @@
 [old_concepts]
 
 ## In this lesson, we are required to teach the following items:
---New Words--
-[new_words]
-
 --New Phrases--
 [new_phrases]
 
@@ -28,42 +22,10 @@
 
 ## You are tasked with generating the lesson script considering the information given. Build on the existing knowledge and teach the new items required for this lesson. Here is how the lesson should be structured:
 1- Start the lesson with a dialogue between the two speakers, which gives the listener a preview of the new content they’re about to learn. Use only the new words and phrases listed previously, do not use vocabulary outside of what the listener already knows.
-2- Introduce the new content one word at a time. Make sure to explain the meaning of the word or phrase. Highlight any special pronunciation notes the listener needs to know. And explain any relevant grammar concepts from the new concepts listed previously so the listener will know how to generalize to new items.
-3- For each time you introduce the new content, prompt the listener to say each word using back-chaining to practice the pronunciation. Each syllable, word, and phrase should be said twice. The smallest piece you can break down a word is into its syllables. If it's the first time the listener hears the word or phrase, then the Narrator should not say the word in [target_language] when they introduce it, they should only say the meaning of it in [source_language].
-For example:
-  Narrator) Here is how you say "Excuse me" in Spanish, listen and repeat after the man:
-  Man) Perdon
-  [pause]
-  Man) don
-  [pause]
-  Man) don
-  [pause]
-  Man) Per
-  [pause]
-  Man) Per
-  [pause]
-  Man) Perdon
-  [pause]
-  Narrator) Now here’s “Excuse me Miss”:
-  Man) Perdon Señorita
-  [pause]
-  Man) rita
-  [pause]
-  Man) rita
-  [pause]
-  Man) Señor
-  [pause]
-  Man) Señor
-  [pause]
-  Man) Señorita
-  [pause]
-  Man) Señorita
-  [pause]
-  Man) Perdon Señorita
-  [pause]
-This should be done for every single word you introduce in this lesson.
+2- Introduce the new content one phrase at a time. Make sure to explain the meaning of the phrase. Highlight any unique pronunciation notes the listener needs to know coming as a [source_language] listener.
+3- For each time you introduce the new content, prompt the listener to say each piece using back-chaining to practice the pronunciation. The smallest piece you can break down into is syllables, but you can use words if there are too many pieces to keep the practice short. If it's the first time the listener hears the word or phrase, then the Narrator should not say the word in [target_language] when they introduce it, they should only say the meaning of it in [source_language]. This should be done for every single phrase you introduce in this lesson.
 4- You should repeatedly ask the listener to recall these newly learned items throughout the lesson, but no more than 2 times for each item.
-5- After learning some new items (for example: words A, B, C, and D) ask the listener to form new phrases if the words are compatible (such as phrases AC and BD)
+5- After learning some new items (for example: phrases AB and CD) ask the listener to form new phrases if the words are compatible (such as phrases AC and BD)
 For example: Phrase 1 is "Where is the bathroom?". Phrase 2 is "There is the kitchen". Two new combinations you can make are "Where is the kitchen?" and "There is the bathroom"
 6- Prompt the listener to recall relevant review items from the list provided previously and tie it into the newly learnt phrases you just taught.
 For example: if the new phrase learnt this lesson is "There is the bathroom" and one of the review items is "Got it, thank you", you can ask the listener "What is the phrase you would say to thank someone if they told you where the bathroom is?"
@@ -72,76 +34,142 @@ For example: if a new phrase learnt this lesson is "Where is the bathroom", and 
 8- After every word and phrase is learned, bring back the original conversation.
 9- Close off the script with a 1 paragraph summary recapping what new ways the listener learned to speak (don't just list all new phrases and concepts) and quickly encourage them to come back to the next lesson.
 
-Here are some notes to consider about this lesson:
-- Consider the list of phrases and concepts that are necessary to review, and prompt the listener to recall them throughout the lesson. Fit these recall phrases and concepts into the current lesson's content so it doesn't seem out of place.
-- Be sure to explain how the grammar concepts apply to the newly learned phrases. Our listeners are considered to be general audience, so explain the concepts in natural lingo instead of grammar-heavy jargon. The grammar is critical to teach them how to generalize these phrases and words so they can pick up new items easier, so explain also how the concepts can be generalized.
-- Do not include any transliterations or writing the non-Latin language words using the Latin alphabet. (this script is going to be listened to, not read, so a transliteration is unnecessary)
-   * Example: 
+## Major things to avoid when writing the script (I'll provide an example of doing it wrong and what you should do instead for clarity):
+- DO NOT include any transliterations or writing the non-Latin language words using the Latin alphabet. (this script is going to be listened to, not read, so a transliteration is unnecessary). For example:
 <Incorrect Version>
-Narrator) Let's learn our first new word: "ناو" (naw), which is pronounced with 'n' like 'nose' and 'aw' like 'how'.
+Narrator) The subject of the sentence is called: "ناو" (naw) which is pronounced with 'n' like 'nose' and 'aw' like 'how'.
+</Incorrect Version>
 <Correct Version>
-Narrator) Let's learn our first new word: "ناو".
-- Don't dive too deep  into the grammar concepts or get too technical with examples and terms, just give a concise explanation where necessary. If a grammar concept is explicitly named, the name of it should be in [source_language] and not [target_language]. Since this is the first time the listeners are learning how to talk in [target_language], stating the name of the grammar concepts in [target_language] is unnecessary and confusing. For example, if the source language is Kurdish Sorani, and the grammar concept is "to be" in English, the script should describe it as (کاری "بوون") and not "to be".
-- DO NOT split up the introduction of a word/phrase and its breakdown into two separate parts.
-   * Example:
+Narrator) The subject of the sentence is called: "ناو".
+</Correct Version>
+- DO NOT teach incomplete phrases that have blanks in them or that need to be filled in. Always provide complete phrases and you can tell the listener afterwards to replace parts of it however they see fit.
 <Incorrect Version>
-Narrator) Let's learn how to say "name" in Kurdish Sorani:
-Man) ناو
+Narrator) Let's learn how to say "My name is..." in Kurdish Sorani, listen and repeat after the man:
+Man) ناوم ...ە
 [pause]
-Man) ناو
+Man) ...ە
+[pause]
+Man) ...ە
+[pause]
+Man) ناوم
+[pause]
+Man) ناوم
+[pause]
+Man) ناوم ...ە
+[pause]
+</Incorrect Version>
+<Correct Version>
+Narrator) Let's learn how to say "My name is John" in Kurdish Sorani, listen and repeat after the man:
+Man) ناوم جۆنە
+[pause]
+Man) جۆنە
+[pause]
+Man) جۆنە
+[pause]
+Man) ناوم
+[pause]
+Man) ناوم
+[pause]
+Man) ناوم جۆنە
+[pause]
+Narrator) Excellent! You can replace the name "John" with your name.
+</Correct Version>
+- DO NOT dive too deep  into the grammar concepts or get too technical with examples and terms. Just give a concise 1-sentence explanation where necessary. If a grammar concept is explicitly named, the name of it should be in [source_language] and not [target_language]. Since this is the first time the listeners are learning how to talk in [target_language], stating the name of the grammar concepts in [target_language] is unnecessary and confusing. For example, if the source language is Kurdish Sorani, and the grammar concept is "to be" in English, the script should describe it as (کاری "بوون") and not "to be".
+- DO NOT split up the introduction of a word/phrase and its breakdown into two separate parts. For example:
+<Incorrect Version>
+Narrator) Let's learn how to say "what is your name?" in Kurdish Sorani:
+Man) ناوت چییە؟
+[pause]
+Man) ناوت چییە؟
 [pause]
 Narrator) Now let's break it down into its parts, listen and repeat after the man:
-Man) ناو
+Man) ناوت چییە؟
 [pause]
-Man) ناو
+Man) چییە
 [pause]
+Man) چییە
+[pause]
+Man) ناوت
+[pause]
+Man) ناوت
+[pause]
+Man) ناوت چییە؟
+[pause]
+</Incorrect Version>
 <Correct Version>
-Narrator) Let's learn how to say "name" in Kurdish Sorani, listen and repeat after the man:
-Man) ناو
+Narrator) Let's learn how to say "what is your name?" in Kurdish Sorani, listen and repeat after the man:
+Man) ناوت چییە؟
 [pause]
-Man) ناو
+Man) چییە
 [pause]
-- DO NOT break down single syllable words into smaller letters or components, repeat them only twice and that's it.
-   * Example:
+Man) چییە
+[pause]
+Man) ناوت
+[pause]
+Man) ناوت
+[pause]
+Man) ناوت چییە؟
+[pause]
+</Correct Version>
+- DO NOT break down single syllable words into smaller letters or components, repeat them only twice and that's it. For example:
 <Incorrect Version>
-Narrator) Let's learn how to say "name" in Kurdish Sorani:
-Man) ناو
+Narrator) Let's learn how to say "Hello" in Kurdish Sorani:
+Man) سڵاو
 [pause]
 Man) او
 [pause]
 Man) او
 [pause]
-Man) ن
+Man) سڵ
 [pause]
-Man) ن
+Man) سڵ
 [pause]
-Man) ناو
+Man) سڵاو
 [pause]
+</Incorrect Version>
 <Correct Version>
-Narrator) Let's learn how to say "name" in Kurdish Sorani, listen and repeat after the man:
-Man) ناو
+Narrator) Let's learn how to say "Hello" in Kurdish Sorani, listen and repeat after the man:
+Man) سڵاو
 [pause]
-Man) ناو
+Man) سڵاو
 [pause]
-- Occaisionally switch up whether Man or Woman introduces a new word or phrase to have some variety. Note that whichever you choose, it must match the relevant gender in the phrase. For example, the Woman can not say "My name is John".
-- After the Man or Woman introduces a new phrase, the Narrator should NOT translate each single word and then the whole phrase together as this will make the script unnecessarily long. The only thing the Narrator can say after a new phrase is introduced is pronounciation, grammar, or utilization tips.
-* Example:
+</Correct Version>
+- After the Man or Woman introduces a new phrase, DO NOT have the Narrator translate, transliterate, or use onomatopoeia for each part of the phrase as this will make the script unnecessarily long. The only thing the Narrator can say after a new phrase is introduced is utilization tips. For example:
 <Incorrect Version>
+.
+.
+.
+Man) سڵاو، خۆشحاڵم بە ناسینت
 Narrator) In this new phrase, "سڵاو" means "hello", "خۆشحاڵ" means "happy" or "pleased", "م" means "I am", "بە" means "by", "ناسین" means "meeting", and "ت" means "you". So, "سڵاو، خۆشحاڵم بە ناسینت" means "Hello, I am pleased by meeting you". Notice how the "ڵاو" sound uses a heavier "l" sound by placing your tongue against the roof of your mouth. Also, the ending "م" ties the expression "happy" back to "I". This is a lovely expression you can use after meeting someone for the first time.
+</Incorrect Version>
 <Correct Version>
+.
+.
+.
+Man) سڵاو، خۆشحاڵم بە ناسینت
 Narrator) Notice how the "ڵاو" sound uses a heavier "l" sound by placing your tongue against the roof of your mouth. Also, the ending "م" ties the expression "happy" back to "I". This is a lovely expression you can use after meeting someone for the first time.
+</Correct Version>
 - DO NOT use words that have not been listed in the vocabulary provided previously. For example, if the words "summer", "2002", and "storage" are not part of the new_words list or previous_words list, you can't use them.
+- After the first 2-3 times that the Narrator uses a new word or phrase, the Narrator doesn't need to always provide the meaning of it when it's being recalled. Only provide the meaning if you've changed the way it's being used like adding affixes or combining it with other words. For example (after the Narrator said "ناو (name)" 3 times in the script so far):
+<Incorrect Version>
+Narrator) This new word can be added with ناو (name) to create ناوم (my name).
+</Incorrect Version>
+<Correct Version>
+Narrator) This new word can be added with ناو to create ناوم (my name).
+</Correct Version>
+
+
+## Make sure to DO these things throughout the lesson:
+- Consider the list of phrases and concepts that are necessary to review, and prompt the listener to recall them throughout the lesson. Fit these recall phrases and concepts into the current lesson's content so it doesn't seem out of place.
+- Be sure to explain how the grammar concepts apply to the newly learned phrases. Our listeners are considered to be general audience, so explain the concepts in natural lingo instead of grammar jargon. The grammar is critical to teach them how to generalize these phrases and words so they can pick up new items easier, so explain also how the concepts can be generalized.
+- Occaisionally switch up whether Man or Woman introduces a new word or phrase to have some variety. Note that whichever you choose, it must match the relevant gender in the phrase. For example, the Woman can not say "My name is John".
 - Any time you ask the listener to recall an item, format the script so that the Narrator sets up the question and either the man or the woman gives the answer (alternate between the man and woman across questions for variety), like so:
 Narrator) [ask the question]
 [pause]
 Man/Woman) [answer in [target_language]]
-- After the first 2-3 times that the Narrator uses a new word or phrase, the Narrator doesn't need to always provide the meaning of it when it's being recalled. Only provide the meaning if you've changed the way it's being used like adding affixes or combining it with other words.
-   * Example (after the Narrator said "ناو (name)" 3 times in the script so far):
-<Incorrect Version>
-Narrator) This new word can be added with ناو (name) to create ناوم (my name).
-<Correct Version>
-Narrator) This new word can be added with ناو to create ناوم (my name).
-- To give a preview of the next lesson, this is what the contents will be (normal = standard lesson like this one, review = rapid review of everything learned, story = practice everything learned through an interactive story):
+
+
+## To give a preview of the next lesson, this is what the contents will be (normal = standard lesson like this one, review = rapid review of everything learned, story = practice everything learned through an interactive story):
 <next_lesson>
 [next_lesson]
 </next_lesson>
@@ -153,12 +181,6 @@ text:[introduce the listener to the lesson here]
 #
 section:Preview
 text:[give a dialogue between a man and a woman using the new phrases and words here]
-#
-section:Teaching '[word]'
-text:[teach the new word using steps 2, 3, and 4 here]
-#
-section:Recalling '[word]'
-text:[prompt the listener to recall that word]
 #
 section:Teaching '[phrase]'
 text:[teach the new phrase using steps 2, 3, and 4 here]
@@ -176,9 +198,6 @@ text:[explain the grammar concept very concisely considering the words and phras
 #
 section:Practicing grammar concept '[concept]'
 text:[prompt the listener to apply the newly learned concept to relevant combinations of words and phrases the listener knows. Any explanation should be brief and to the point. The combination should be practical and not simply for the sake of combining items]
-#
-section:Reviewing word '[old word]'
-text:[prompt the listener to recall the previously learned word]
 #
 section:Reviewing phrase '[old phrase]'
 newly_learned_phrases_to_use_in_context:[a list of phrases separated by commas]

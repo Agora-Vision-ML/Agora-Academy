@@ -1,228 +1,140 @@
-Narrator) Welcome back to our Kurdish Sorani language course! We’re in Topic #1 - Greetings and Introductions, and this is our second standard lesson. In our last lesson, we learned basic greetings and how to ask how someone is doing. Today, we'll learn how to introduce ourselves and others by name. By the end of this lesson, you'll be able to tell people your name, ask for others' names, and express pleasure at meeting someone new. Let's get started!
-Man) سڵاو!
-Woman) سڵاو! چۆنی؟
-Man) باشم، سوپاس. ناوم کاروانە. ناوت چییە؟
-Woman) ناوم شیلانە. خۆشحاڵم بە ناسینت.
-Man) منیش خۆشحاڵم. ئەو کێیە؟
-Woman) ناوی سارایە.
-Man) ناوی چییە؟
-Woman) ناوی سارایە.
-Narrator) Let's learn how to say our first new word: the word for "name". Listen and repeat after the man:
-Man) ناو
+Narrator) Welcome back to our Kurdish Sorani language course! We're in Topic #1 - Greetings and Introductions, and this is our second lesson. In our last lesson, we learned basic greetings and how to ask how someone is doing. Today, we'll learn how to introduce ourselves and ask for someone's name. By the end of this lesson, you'll be able to tell people your name and ask for others' names. Let's get started!
+Man)  سڵاو!
+Woman)  سڵاو! چۆنی؟
+Man)  باشم، سوپاس. من کاروانم. ناوم کاروانە. ناوت چییە؟
+Woman)  ناوم شیلانە.
+Man)  باشە. سوپاس.
+Woman)  خواحافیز.
+Man)  خواحافیز.
+Narrator) Let's learn our first new word, which means "I" in Kurdish Sorani. Listen and repeat after the man:
+Man)  من
 [pause]
-Man) ناو
+Man)  من
 [pause]
-Narrator) Great! This is an important word we'll use a lot when introducing ourselves. Now let's learn how to say "My name is Shilan" in Kurdish Sorani. Listen and repeat after the woman:
-Woman) ناوم شیلانە
+Narrator) Great! This is the personal pronoun for "I" in Kurdish Sorani. You'll use this word when talking about yourself.
+Narrator) Now let's learn the word for "you" in Kurdish Sorani. Listen and repeat after the woman:
+Woman)  تۆ
 [pause]
-Woman) شیلانە
+Woman)  تۆ
 [pause]
-Woman) شیلانە
+Narrator) Excellent! This is the personal pronoun for "you" in Kurdish Sorani. You'll use this when addressing someone directly.
+Narrator) We've just learned two important personal pronouns in Kurdish Sorani: "من" meaning "I" and "تۆ" meaning "you". These are used at the beginning of sentences when you want to talk about yourself or address someone else. For example, if you want to say "I am good", you would say "من باشم". Similarly, if you want to say "You are good", you would say "تۆ باشیت". Notice how the ending of the word "باش" changes depending on who we're talking about.
+Narrator) Let's practice using these pronouns. How would you say "I am good" in Kurdish Sorani?
 [pause]
-Woman) ناوم
+Man)  من باشم
+Narrator) And how would you say "You are good"?
 [pause]
-Woman) ناوم
-[pause]
-Woman) ناوم شیلانە
-[pause]
-Narrator) In this phrase, "ناوم" means "my name" and the ending sound connects your name to the phrase. So "ناوم شیلانە" literally means "my name is Shilan."
-Narrator) Let's understand the grammar behind saying "My name is..." In Kurdish Sorani, instead of using a separate word for "is" like in English, we attach endings to words.
-In our last lesson, we learned how to use these endings with adjectives, like "باشم" (I am good) and "باشیت" (you are good). Now we're learning how to use them with nouns.
-When we say "ناوم شیلانە", the "م" attached to "ناو" means "my", making "ناوم" mean "my name". The ending connects your name to the phrase.
-Narrator) Now let's learn how to say "what" in Kurdish Sorani. This is an important question word. Listen and repeat after the man:
-Man) چی
-[pause]
-Man) چی
-[pause]
-Narrator) Excellent! We'll use this word to ask questions about names.
+Woman)  تۆ باشیت
 Narrator) Now let's learn how to ask "What is your name?" in Kurdish Sorani. Listen and repeat after the man:
-Man) ناوت چییە
+Man)  ناوت چییە؟
 [pause]
-Man) چییە
+Man)  چییە
 [pause]
-Man) چییە
+Man)  چییە
 [pause]
-Man) ناوت
+Man)  ناوت
 [pause]
-Man) ناوت
+Man)  ناوت
 [pause]
-Man) ناوت چییە
+Man)  ناوت چییە؟
 [pause]
-Narrator) In this phrase, "ناوت" means "your name" and "چییە" means "what is". So "ناوت چییە؟" literally asks "your name what is?"
-Narrator) When forming a "what" question, we place "چی" before the connecting sound. So "چییە" means "what is".
-Narrator) Our next word is "ئەو", which means "he" or "she" in Kurdish Sorani. Kurdish doesn't distinguish between male and female in third-person pronouns. Listen and repeat after the woman:
-Woman) ئەو
+Narrator) Excellent! Now let's learn how to say "My name is Shilan" in Kurdish Sorani. Listen and repeat after the woman:
+Woman)  ناوم شیلانە
 [pause]
-Woman) ئەو
+Woman)  شیلانە
 [pause]
-Narrator) Great! This is our third personal pronoun. Now we have all three singular subject pronouns in Kurdish Sorani: "من" for "I", "تۆ" for "You", and "ئەو" for "He or She". Unlike English, Kurdish Sorani doesn't distinguish between "he" and "she" - both are simply "ئەو". This makes things a bit simpler!
-Just like we saw with "من" and "تۆ", "ئەو" can be used as the subject of a sentence. For example, "ئەو باشە" means "He or She is good."
-Narrator) Now let's learn how to ask "What is his or her name?" in Kurdish Sorani. Listen and repeat after the woman:
-Woman) ناوی چییە
+Woman)  شیلانە
 [pause]
-Woman) چییە
+Woman)  ناوم
 [pause]
-Woman) چییە
+Woman)  ناوم
 [pause]
-Woman) ناوی
+Woman)  ناوم شیلانە
 [pause]
-Woman) ناوی
+Narrator) Great! In this phrase, "ناوم" means "my name" and "ە" at the end of the name connects your name to the phrase. Now let's learn how to say "I am Karwan" in Kurdish Sorani. Listen and repeat after the man:
+Man)  من کاروانم
 [pause]
-Woman) ناوی چییە
+Man)  کاروانم
 [pause]
-Narrator) Our next word means "happy" or "pleased" in Kurdish Sorani. Listen and repeat after the man:
-Man) خۆشحاڵ
+Man)  کاروانم
 [pause]
-Man) حاڵ
+Man)  من
 [pause]
-Man) حاڵ
+Man)  من
 [pause]
-Man) خۆش
+Man)  من کاروانم
 [pause]
-Man) خۆش
+Narrator) Excellent! This phrase uses your name and the suffix "م" which connects the pronoun to your name. Now let's learn how to say "My name is Shilan, what is your name?" in Kurdish Sorani. Listen and repeat after the woman:
+Woman)  ناوم شیلانە، ناوت چییە؟
 [pause]
-Man) خۆشحاڵ
+Woman)  ناوت چییە
 [pause]
-Narrator) Excellent! This word will help us express pleasure when meeting someone.
-Narrator) Our next word means "to know" or "to meet or be acquainted with" someone in Kurdish Sorani. Listen and repeat after the woman:
-Woman) ناسین
+Woman)  ناوت چییە
 [pause]
-Woman) سین
+Woman)  ناوم شیلانە
 [pause]
-Woman) سین
+Woman)  ناوم شیلانە
 [pause]
-Woman) نا
+Woman)  ناوم شیلانە، ناوت چییە؟
 [pause]
-Woman) نا
+Narrator) Great! This combines the two phrases we just learned. We've learned two ways to introduce yourself in Kurdish Sorani. The first way is to say "ناوم" followed by your name and "ە", like "ناوم شیلانە" meaning "My name is Shilan". The second way is to use the pronoun "من" followed by your name and the suffix "م", like "من کاروانم" meaning "I am Karwan". Both ways are commonly used and correct.
+Narrator) Let's do a quick recap. What is the Kurdish Sorani word for "I"?
 [pause]
-Woman) ناسین
+Man)  من
+Narrator) What is the Kurdish Sorani word for "you"?
 [pause]
-Narrator) Great! We'll use this word to express pleasure at meeting someone.
-Narrator) Now let's combine these words to say "Pleased to meet you" in Kurdish Sorani. Listen and repeat after the man:
-Man) خۆشحاڵم بە ناسینت
+Woman)  تۆ
+Narrator) How do you say "my name" in Kurdish Sorani?
 [pause]
-Man) ناسینت
+Woman)  ناوم
+Narrator) How do you say "your name" in Kurdish Sorani?
 [pause]
-Man) ناسینت
+Man)  ناوت
+Narrator) How do you ask "What is your name?" in Kurdish Sorani?
 [pause]
-Man) بە
-[pause]
-Man) بە
-[pause]
-Man) خۆشحاڵم
-[pause]
-Man) خۆشحاڵم
-[pause]
-Man) خۆشحاڵم بە ناسینت
-[pause]
-Narrator) In this phrase, "خۆشحاڵم" means "I am happy", "بە" means "with" or "by", and "ناسینت" means "meeting you" or "knowing you". So "خۆشحاڵم بە ناسینت" literally means "I am happy by meeting you."
-Narrator) Our last new word means "me too" in Kurdish Sorani. Listen and repeat after the woman:
-Woman) منیش
-[pause]
-Woman) منیش
-[pause]
-Narrator) Great! This is formed by getting the word for "من" and connecting it to a suffix, which makes it mean "me too".
-Narrator) Now let's learn how to say "I'm pleased too" in Kurdish Sorani. Listen and repeat after the woman:
-Woman) منیش خۆشحاڵم
-[pause]
-Woman) خۆشحاڵم
-[pause]
-Woman) خۆشحاڵم
-[pause]
-Woman) منیش
-[pause]
-Woman) منیش
-[pause]
-Woman) منیش خۆشحاڵم
-[pause]
-Narrator) We learned how "منیش" means "me too" or "I also". So "منیش خۆشحاڵم" literally means "I am also happy" - a perfect response when someone says they're pleased to meet you.
-Narrator) Let's practice what we've learned. What is the Kurdish word for "name"?
-[pause]
-Woman) ناو
-Narrator) What is the Kurdish word for "what"?
-[pause]
-Man) چی
-Narrator) What is the Kurdish word for "he" or "she"?
-[pause]
-Woman) ئەو
-Narrator) What is the Kurdish word for "happy" or "pleased"?
-[pause]
-Man) خۆشحاڵ
-Narrator) What is the Kurdish word for "to know" or "to meet"?
-[pause]
-Woman) ناسین
-Narrator) What is the Kurdish word for "me too" or "I also"?
-[pause]
-Man) منیش
+Man)  ناوت چییە؟
 Narrator) How would you say "My name is John" in Kurdish Sorani?
 [pause]
-Man) ناوم جۆنە
-Narrator) How would you ask someone "What is your name?" in Kurdish Sorani?
+Man)  ناوم جۆنە
+Narrator) How would you say "I am Sarah" in Kurdish Sorani?
 [pause]
-Man) ناوت چییە؟
-Narrator) How would you ask "What is his or her name?" in Kurdish Sorani?
+Woman)  من سارام
+Narrator) How would you say "My name is David, what is your name?" in Kurdish Sorani?
 [pause]
-Woman) ناوی چییە؟
-Narrator) How would you say "Pleased to meet you" in Kurdish Sorani?
+Man)  ناوم دەیڤیدە، ناوت چییە؟
+Narrator) Let's review some words from our previous lesson. How do you say "hello" in Kurdish Sorani?
 [pause]
-Man) خۆشحاڵم بە ناسینت
-Narrator) How would you respond "I'm pleased too" in Kurdish Sorani?
+Man)  سڵاو
+Narrator) After greeting someone with "سڵاو", what would you ask to know how they are doing?
 [pause]
-Woman) منیش خۆشحاڵم
-Narrator) Let's review some phrases from our previous lesson. How do you say "hello" in Kurdish Sorani?
+Woman)  چۆنی؟
+Narrator) And after asking how they are, what would you ask to know their name?
 [pause]
-Man) سڵاو
-Narrator) Now, imagine you're meeting someone for the first time After saying "سڵاو", what would you ask to know their name?
+Man)  ناوت چییە؟
+Narrator) If someone asks "چۆنی؟", how would you respond that you are good?
 [pause]
-Woman) ناوت چییە؟
-Narrator) And how would you tell them your name is Sarah?
+Woman)  باشم، سوپاس
+Narrator) And after saying you are good, how would you tell them your name is Maria?
 [pause]
-Woman) ناوم سارایە
-Narrator) How do you ask "How are you?" in Kurdish Sorani?
+Woman)  ناوم ماریایە
+Narrator) How do you say "goodbye" in Kurdish Sorani?
 [pause]
-Woman) چۆنی؟
-Narrator) Now, imagine you meet someone new. After greeting them with "سڵاو" and asking "چۆنی؟", what would you ask to know their name?
+Man)  خواحافیز
+Narrator) In our previous lesson, we learned how to ask how someone is doing and respond. If someone asks you "چۆنی؟", how would you respond that you are good and then ask for their name?
 [pause]
-Man) ناوت چییە؟
-Narrator) And after they tell you their name, what would you say to express that you're pleased to meet them?
+Man)  باشم، سوپاس. ناوت چییە؟
+Narrator) How do you express gratitude in Kurdish Sorani?
 [pause]
-Woman) خۆشحاڵم بە ناسینت
-Narrator) How do you respond to "چۆنی؟" in Kurdish Sorani?
+Woman)  سوپاس
+Narrator) Now let's combine what we've learned. How would you greet someone and then tell them your name is Alex?
 [pause]
-Man) باشم، سوپاس
-Narrator) Now, imagine someone asks how you are and then asks your name. After saying "باشم، سوپاس", how would you tell them your name is David?
-[pause]
-Man) ناوم دەیڤیدە
-Narrator) If someone says "خۆشحاڵم بە ناسینت" to you, how would you respond?
-[pause]
-Man) منیش خۆشحاڵم
-Narrator) In our previous lesson, we learned that Kurdish Sorani uses subject and adjective structure for describing people, like "من باشم" (I am good).
-Now, using our new word "خۆشحاڵ", how would you say "I am happy"?
-[pause]
-Woman) من خۆشحاڵم
-And using our new word "منیش", how would you say "I am also good"?
-[pause]
-Man) منیش باشم
-Narrator) Let's practice using all three pronouns with our new word "خۆشحاڵ":
-How would you say "I am happy"?
-[pause]
-Woman) من خۆشحاڵم
-How would you say "You are happy"?
-[pause]
-Man) تۆ خۆشحاڵیت
-How would you say "He or She is happy"?
-[pause]
-Woman) ئەو خۆشحاڵە
-Narrator) If someone says "خۆشحاڵم بە ناسینت" to you, how could you respond more fully that you're also pleased to meet them?
-[pause]
-Man) منیش خۆشحاڵم بە ناسینت
-Narrator) Excellent! Now let's listen to our dialogue again, and see if you can understand everything:
-Man) سڵاو!
-Woman) سڵاو! چۆنی؟
-Man) باشم، سوپاس. ناوم کاروانە. ناوت چییە؟
-Woman) ناوم شیلانە. خۆشحاڵم بە ناسینت.
-Man) منیش خۆشحاڵم. ئەو کێیە؟
-Woman) ناوی سارایە.
-Man) ناوی چییە؟
-Woman) ناوی سارایە.
-Narrator) Congratulations! You now know how to introduce yourself and others in Kurdish Sorani. In our next lesson, we'll learn some polite expressions you can use in everyday conversations. See you then!
+Man)  سڵاو! ناوم ئەلێکسە
+Narrator) Let's listen to our dialogue again and see if you can understand everything:
+Man)  سڵاو!
+Woman)  سڵاو! چۆنی؟
+Man)  باشم، سوپاس. من کاروانم. ناوم کاروانە. ناوت چییە؟
+Woman)  ناوم شیلانە.
+Man)  باشە. سوپاس.
+Woman)  خواحافیز.
+Man)  خواحافیز.
+Narrator) Congratulations! You've now learned how to introduce yourself and ask for someone's name in Kurdish Sorani. You learned how to tell someone your name, and ask for someone else's name. You've also learned the personal pronouns for "I" and "you". In our next lesson, we'll learn how to express pleasure at meeting someone new and some polite expressions. See you then!
