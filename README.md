@@ -1,6 +1,6 @@
 # Agora Academy
 
-This repository contains a modular pipeline for generating language course lesson scripts using Large Language Models (LLMs). The system is designed to automate the creation of structured lesson content, including grammar concepts, course outlines, and detailed lesson scripts, with support for multiple languages and CEFR levels.
+This repository contains a modular pipeline for generating language course lesson scripts using Large Language Models (LLMs). The system is designed to automate the creation of structured lesson content, including grammar concepts, course outlines, and detailed lesson scripts, with support for multiple languages and CEFR levels. Try out the generated language courses for 3 language pairs on LearnWorlds:<br> https://agoravision.learnworlds.com
 
 ## Features
 
